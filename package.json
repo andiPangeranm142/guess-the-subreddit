@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "guess-the-sub",
+  "name": "guess-the-sub-game",
   "version": "0.0.0",
   "license": "BSD-3-Clause",
   "type": "module",

@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
-  "name": "guess-the-sub",
+  "name": "guess-the-sub-game",
   "post": {
     "dir": "dist/client",
     "entrypoints": {
