@@ -110,6 +110,14 @@ export type AnswerResponse = {
   roundsAnswered: number;
   finished: boolean;
   result: GameResult | undefined;
+  /**
+   * Post-game stats, present only when a logged-in game finishes. The
+   * client shows stats from the /today snapshot taken at mount, so without
+   * these the result screen would keep showing pre-game (all-zero, for a
+   * first game) stats — the finalize response is the one place the fresh
+   * values are guaranteed to be in hand.
+   */
+  stats: PlayerStats | undefined;
 };
 
 export type LeaderboardResponse = {

@@ -15,12 +15,18 @@
 import { register } from 'node:module';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import type { BankEntry, Difficulty } from './api';
+import type {
+  BankEntry,
+  Difficulty,
+  PlayerStats,
+  TodayResponse,
+} from './api';
 
 register('./test-loader.ts', import.meta.url);
 
 const {
   addDays,
+  applyFinishedStats,
   buildShareText,
   emojiGrid,
   fallbackNote,
@@ -240,4 +246,88 @@ test('daily set throws when the bank is too small', () => {
     },
   ];
   assert.throws(() => getDailySet(tinyBank, '2026-11-23'), /too small/);
+});
+
+/** Mount-time /today snapshot for a first-time player: stats all zero. */
+const makeFirstGameSnapshot = (): TodayResponse => ({
+  type: 'today',
+  date: '2026-11-23',
+  gameNumber: 1,
+  questions: [],
+  alreadyPlayed: false,
+  previousResult: undefined,
+  progress: [],
+  username: 'AndiPangeran',
+  anonymous: false,
+  streak: 0,
+  stats: {
+    gamesPlayed: 0,
+    totalCorrect: 0,
+    totalAnswered: 0,
+    avgScore: 0,
+    bestStreak: 0,
+    currentStreak: 0,
+    perfectDays: 0,
+  },
+});
+
+// Regression: playtest 23 Nov 2026 — after a 5/5, 685-point first game the
+// result screen showed 0 games / 0% accuracy / 0 avg score / 0 best streak
+// because it read stats from the mount-time snapshot, which was never
+// refreshed when the game finished.
+test('finishing a first game refreshes the snapshot stats (no more all-zero result screen)', () => {
+  const snapshot = makeFirstGameSnapshot();
+  const finishedStats: PlayerStats = {
+    gamesPlayed: 1,
+    totalCorrect: 5,
+    totalAnswered: 5,
+    avgScore: 685,
+    bestStreak: 1,
+    currentStreak: 1,
+    perfectDays: 1,
+  };
+  const updated = applyFinishedStats(snapshot, finishedStats);
+  assert.deepEqual(updated.stats, finishedStats);
+  assert.equal(updated.streak, 1);
+  assert.equal(updated.stats.gamesPlayed, 1);
+  assert.equal(updated.stats.totalCorrect, 5);
+  assert.equal(updated.stats.avgScore, 685);
+  assert.equal(updated.stats.bestStreak, 1);
+  // The rest of the snapshot is untouched.
+  assert.equal(updated.date, snapshot.date);
+  assert.equal(updated.gameNumber, snapshot.gameNumber);
+  assert.equal(updated.username, snapshot.username);
+  // The original snapshot is not mutated.
+  assert.equal(snapshot.stats.gamesPlayed, 0);
+  assert.equal(snapshot.streak, 0);
+});
+
+test('finishing a later game replaces (not accumulates) the snapshot stats', () => {
+  const snapshot: TodayResponse = {
+    ...makeFirstGameSnapshot(),
+    streak: 2,
+    stats: {
+      gamesPlayed: 9,
+      totalCorrect: 40,
+      totalAnswered: 45,
+      avgScore: 500,
+      bestStreak: 2,
+      currentStreak: 2,
+      perfectDays: 3,
+    },
+  };
+  const updated = applyFinishedStats(snapshot, {
+    gamesPlayed: 10,
+    totalCorrect: 44,
+    totalAnswered: 50,
+    avgScore: 510,
+    bestStreak: 3,
+    currentStreak: 3,
+    perfectDays: 3,
+  });
+  // The server owns the accumulation; the client takes its numbers as-is.
+  assert.equal(updated.stats.gamesPlayed, 10);
+  assert.equal(updated.stats.totalCorrect, 44);
+  assert.equal(updated.stats.avgScore, 510);
+  assert.equal(updated.streak, 3);
 });

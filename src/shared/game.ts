@@ -3,7 +3,13 @@
  * Daily set selection is deterministic per UTC date: every player gets the
  * same 5 questions (2 easy + 2 medium + 1 hard) on a given day.
  */
-import type { BankEntry, Difficulty, Question } from './api';
+import type {
+  BankEntry,
+  Difficulty,
+  PlayerStats,
+  Question,
+  TodayResponse,
+} from './api';
 
 /** Day 1 of the game. Game numbers count up from here. */
 export const GAME_EPOCH = '2026-11-23';
@@ -200,3 +206,22 @@ export const buildShareText = (args: {
 /** Fallback "why it fits" line when a bank entry has no note. */
 export const fallbackNote = (subreddit: string): string =>
   `A classic r/${subreddit} post — the tone, topic, and community in-jokes all point there.`;
+
+/**
+ * Refresh a /today snapshot with the post-game stats from a finished
+ * /answer response. The snapshot is taken at mount, before the game is
+ * played — for a first game its stats are all zeros. The result screen
+ * reads stats from that snapshot, so the snapshot must be updated when the
+ * game finishes or the stats row shows 0 games / 0% accuracy even though
+ * the score, streak, and rank (which come from the fresh GameResult) are
+ * correct. The header streak comes from the same snapshot, so it refreshes
+ * too.
+ */
+export const applyFinishedStats = (
+  today: TodayResponse,
+  stats: PlayerStats
+): TodayResponse => ({
+  ...today,
+  stats,
+  streak: stats.currentStreak,
+});

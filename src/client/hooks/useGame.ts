@@ -7,6 +7,7 @@ import type {
   TodayResponse,
 } from '../../shared/api';
 import {
+  applyFinishedStats,
   buildShareText,
   PERFECT_BONUS,
   QUESTIONS_PER_DAY,
@@ -254,6 +255,18 @@ export const useGame = (): UseGame => {
               today.stats.bestStreak,
               today.gameNumber
             );
+        }
+        // A logged-in finish carries the post-game stats — refresh the
+        // mount-time /today snapshot with them now, while the feedback is
+        // still on screen, so the result screen (and the header streak)
+        // show the finished game's numbers instead of the pre-game ones.
+        const finishedStats = response.stats;
+        if (response.finished && finishedStats !== undefined) {
+          setToday((prev) =>
+            prev === undefined
+              ? prev
+              : applyFinishedStats(prev, finishedStats)
+          );
         }
         advanceTimer.current = setTimeout(() => advance(), FEEDBACK_MS);
       } catch {

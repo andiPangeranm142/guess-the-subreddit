@@ -298,6 +298,7 @@ api.post('/answer', async (c) => {
       roundsAnswered: 1,
       finished: false,
       result: undefined,
+      stats: undefined,
     });
   }
 
@@ -333,6 +334,7 @@ api.post('/answer', async (c) => {
       roundsAnswered,
       finished: false,
       result: undefined,
+      stats: undefined,
     });
   }
 
@@ -415,6 +417,10 @@ api.post('/answer', async (c) => {
       totalPlayers,
       bestStreak: newBest,
     }),
+    // The client shows stats from its mount-time /today snapshot, so the
+    // finish response must carry the post-game stats — otherwise the result
+    // screen keeps showing the pre-game (all-zero, for a first game) values.
+    stats: toPlayerStats(newStreak, newStats),
   });
 });
 
