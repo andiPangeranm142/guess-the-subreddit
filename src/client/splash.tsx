@@ -1,60 +1,100 @@
 import './index.css';
 
-import { navigateTo } from '@devvit/web/client';
-import { context, requestExpandedMode } from '@devvit/web/client';
+import { useEffect, useState } from 'react';
+import { requestExpandedMode } from '@devvit/web/client';
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
+import type { SplashResponse } from '../shared/api';
+import { MAX_DAILY_SCORE } from '../shared/game';
+import { fetchSplash } from './lib/api';
+import { formatDate } from './lib/format';
 
+/**
+ * Inline feed view — kept deliberately light: one small fetch, no game
+ * logic. The play button always works, even if the fetch fails.
+ */
 export const Splash = () => {
+  const [data, setData] = useState<SplashResponse | undefined>(undefined);
+
+  useEffect(() => {
+    let cancelled = false;
+    void fetchSplash()
+      .then((response) => {
+        if (!cancelled) {
+          setData(response);
+        }
+      })
+      .catch(() => {
+        // The play button still works without splash data.
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  const played = data?.played ?? false;
+
   return (
-    <div className="flex relative flex-col justify-center items-center min-h-screen gap-4 bg-white dark:bg-gray-900">
-      <img
-        className="object-contain w-1/2 max-w-[250px] mx-auto"
-        src="/snoo.png"
-        alt="Snoo"
-      />
-      <div className="flex flex-col items-center gap-2">
-        <h1 className="text-2xl font-bold text-center text-gray-900 dark:text-white">
-          Hey {context.username ?? 'user'} 👋
+    <div className="flex min-h-screen flex-col items-center justify-center gap-4 bg-paper px-6 py-8 text-center dark:bg-night">
+      <div className="relative">
+        <div className="absolute inset-0 -z-0 scale-125 rounded-full bg-brand-soft blur-2xl dark:bg-brand-soft-dark" />
+        <img
+          className="relative z-10 mx-auto h-28 w-28 animate-float object-contain"
+          src="/snoo.png"
+          alt="Snoo the Reddit alien, ready to sleuth"
+        />
+      </div>
+
+      <div>
+        <h1 className="text-3xl font-extrabold tracking-tight text-ink dark:text-white">
+          Guess the <span className="text-brand">Subreddit</span>
         </h1>
-        <p className="text-base text-center text-gray-600 dark:text-gray-300">
-          Edit{' '}
-          <span className="bg-[#e5ebee] dark:bg-gray-700 px-1 py-0.5 rounded">
-            src/client/splash.tsx
-          </span>{' '}
-          to get started.
+        <p className="mt-1.5 text-sm text-gray-500 dark:text-gray-400">
+          Five posts. Five subreddits. One daily puzzle.
         </p>
       </div>
-      <div className="flex items-center justify-center mt-5">
-        <button
-          className="flex items-center justify-center bg-[#d93900] dark:bg-orange-600 text-white w-auto h-10 rounded-full cursor-pointer transition-colors px-4 hover:bg-[#c23300] dark:hover:bg-orange-700"
-          onClick={(e) => requestExpandedMode(e.nativeEvent, 'game')}
-        >
-          Tap to Start
-        </button>
-      </div>
-      <footer className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-3 text-[0.8em] text-gray-600 dark:text-gray-400">
-        <button
-          className="cursor-pointer hover:text-gray-900 dark:hover:text-white transition-colors"
-          onClick={() => navigateTo('https://developers.reddit.com/docs')}
-        >
-          Docs
-        </button>
-        <span className="text-gray-300 dark:text-gray-600">|</span>
-        <button
-          className="cursor-pointer hover:text-gray-900 dark:hover:text-white transition-colors"
-          onClick={() => navigateTo('https://www.reddit.com/r/Devvit')}
-        >
-          r/Devvit
-        </button>
-        <span className="text-gray-300 dark:text-gray-600">|</span>
-        <button
-          className="cursor-pointer hover:text-gray-900 dark:hover:text-white transition-colors"
-          onClick={() => navigateTo('https://discord.com/invite/R7yu2wh9Qz')}
-        >
-          Discord
-        </button>
-      </footer>
+
+      {data !== undefined ? (
+        <p className="rounded-full bg-white px-4 py-1.5 text-xs font-bold text-gray-600 shadow-sm dark:bg-night-card dark:text-gray-300">
+          Game #{data.gameNumber} · {formatDate(data.date)}
+        </p>
+      ) : undefined}
+
+      {played ? (
+        <div className="flex flex-col items-center gap-1 animate-fade-in">
+          <p className="text-lg font-extrabold text-ink dark:text-white">
+            {data?.score !== undefined
+              ? `You scored ${data.score}/${MAX_DAILY_SCORE} today! 🎉`
+              : 'You already played today! 🎉'}
+          </p>
+          <p className="text-sm text-gray-500 dark:text-gray-400">
+            Come back tomorrow for five fresh rounds.
+          </p>
+        </div>
+      ) : (
+        <p className="max-w-xs text-sm leading-relaxed text-gray-600 dark:text-gray-300">
+          Read the post, guess which subreddit it came from. Faster answers earn
+          more points — and every day you play grows your streak. 🔥
+        </p>
+      )}
+
+      <button
+        type="button"
+        onClick={(e) => requestExpandedMode(e.nativeEvent, 'game')}
+        className="cursor-pointer rounded-full bg-brand px-8 py-3.5 text-base font-bold text-white shadow-lg shadow-brand/30 transition hover:bg-brand-hover active:scale-95"
+      >
+        {played ? "See today's results" : "Play today's game"}
+      </button>
+
+      {data !== undefined &&
+      !played &&
+      data.topScore !== undefined &&
+      data.totalPlayers > 0 ? (
+        <p className="text-xs font-semibold text-gray-400">
+          Today&apos;s top score: {data.topScore} · {data.totalPlayers}{' '}
+          {data.totalPlayers === 1 ? 'player' : 'players'} so far
+        </p>
+      ) : undefined}
     </div>
   );
 };

@@ -1,0 +1,2132 @@
+[
+  {
+    "id": "q001",
+    "title": "AITA for refusing to let my sister use my car after she returned it with an empty tank twice?",
+    "body": "She says I'm being petty because 'it's just gas', but she never offers to pay for it and the second time I nearly missed work.",
+    "subreddit": "AmItheAsshole",
+    "options": [
+      "AmItheAsshole",
+      "offmychest",
+      "relationship_advice",
+      "TrueOffMyChest"
+    ],
+    "difficulty": "easy",
+    "category": "advice"
+  },
+  {
+    "id": "q002",
+    "title": "AITA for telling my roommate his 3am guitar practice has to stop?",
+    "body": "He says music is his passion and I should just wear earplugs. I have work at 7am and I have asked him nicely four times now.",
+    "subreddit": "AmItheAsshole",
+    "options": [
+      "relationship_advice",
+      "Vent",
+      "AmItheAsshole",
+      "offmychest"
+    ],
+    "difficulty": "easy",
+    "category": "advice"
+  },
+  {
+    "id": "q003",
+    "title": "AITA for not inviting my brother's girlfriend to our family vacation?",
+    "body": "They have been dating for two months and the cabin only sleeps six. My brother says I'm being cold and unwelcoming.",
+    "subreddit": "AmItheAsshole",
+    "options": [
+      "AmItheAsshole",
+      "TrueOffMyChest",
+      "Advice",
+      "relationship_advice"
+    ],
+    "difficulty": "easy",
+    "category": "advice"
+  },
+  {
+    "id": "q004",
+    "title": "AITA for eating the last slice of cake my wife was saving?",
+    "body": "It had been in the fridge for three days and I genuinely thought she forgot about it. She says she was looking forward to it all week.",
+    "subreddit": "AmItheAsshole",
+    "options": [
+      "AmItheAsshole",
+      "Marriage",
+      "relationship_advice",
+      "offmychest"
+    ],
+    "difficulty": "easy",
+    "category": "advice"
+  },
+  {
+    "id": "q005",
+    "title": "My boyfriend (26M) won't stop leaving dishes in the sink and I'm (24F) losing my mind — how do I bring this up without a fight?",
+    "body": "We have talked about it before and he improves for about a week, then it slides back. I don't want this to become a bigger thing than it is.",
+    "subreddit": "relationship_advice",
+    "options": [
+      "dating_advice",
+      "AmItheAsshole",
+      "Marriage",
+      "relationship_advice"
+    ],
+    "difficulty": "easy",
+    "category": "relationships"
+  },
+  {
+    "id": "q006",
+    "title": "My girlfriend (29F) and I (31M) disagree about moving in together. She wants to wait another year. Am I wrong to feel hurt?",
+    "body": "We have been together for three years and I thought we were on the same page. She says she loves me but isn't ready for that step yet.",
+    "subreddit": "relationship_advice",
+    "options": [
+      "AmItheAsshole",
+      "TrueOffMyChest",
+      "dating_advice",
+      "relationship_advice"
+    ],
+    "difficulty": "easy",
+    "category": "relationships"
+  },
+  {
+    "id": "q007",
+    "title": "How do I tell my partner of 5 years that I need more alone time without hurting their feelings?",
+    "body": "I love spending time together, but I recharge by being alone and lately I feel drained all the time. They take it personally every time I ask for space.",
+    "subreddit": "relationship_advice",
+    "options": [
+      "AmItheAsshole",
+      "relationship_advice",
+      "dating_advice",
+      "Marriage"
+    ],
+    "difficulty": "easy",
+    "category": "relationships"
+  },
+  {
+    "id": "q008",
+    "title": "TIL that honey found in ancient Egyptian tombs is still perfectly edible after 3,000 years",
+    "body": "Archaeologists tasted honey recovered from sealed pots in the tombs and found it completely preserved, thanks to honey being naturally antibacterial and low in moisture.",
+    "subreddit": "todayilearned",
+    "options": [
+      "mildlyinteresting",
+      "todayilearned",
+      "interestingasfuck",
+      "DamnThatsInteresting"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q009",
+    "title": "TIL octopuses have three hearts, and two of them stop beating when they swim",
+    "body": "Two hearts pump blood to the gills and one pumps it to the rest of the body. Swimming is so exhausting for them that they prefer crawling along the sea floor.",
+    "subreddit": "todayilearned",
+    "options": [
+      "interestingasfuck",
+      "science",
+      "todayilearned",
+      "DamnThatsInteresting"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q010",
+    "title": "TIL the Eiffel Tower grows about 15 cm taller in the summer heat",
+    "body": "The iron expands when temperatures rise, making the tower measurably taller in July than in January. It also leans slightly away from the sun.",
+    "subreddit": "todayilearned",
+    "options": [
+      "mildlyinteresting",
+      "DamnThatsInteresting",
+      "todayilearned",
+      "interestingasfuck"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q011",
+    "title": "TIL the first oranges weren't orange — they were green, and came from Southeast Asia",
+    "body": "Oranges originated in Southeast Asia, and in warm tropical climates they stay green even when ripe. The orange color comes from cooler temperatures.",
+    "subreddit": "todayilearned",
+    "options": [
+      "interestingasfuck",
+      "mildlyinteresting",
+      "todayilearned",
+      "food"
+    ],
+    "difficulty": "easy",
+    "category": "food"
+  },
+  {
+    "id": "q012",
+    "title": "ELI5: Why does the moon look so much bigger near the horizon?",
+    "body": "Every time the moon is low in the sky it looks huge, but when it's high up it looks normal. Is it actually closer, or is my brain playing tricks on me?",
+    "subreddit": "ExplainLikeImFive",
+    "options": [
+      "ExplainLikeImFive",
+      "NoStupidQuestions",
+      "AskScience",
+      "TooAfraidToAsk"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q013",
+    "title": "ELI5: How do noise-cancelling headphones actually cancel noise?",
+    "body": "I get that they block sound physically, but how does the electronic part work? Are they really creating anti-noise?",
+    "subreddit": "ExplainLikeImFive",
+    "options": [
+      "AskScience",
+      "technology",
+      "NoStupidQuestions",
+      "ExplainLikeImFive"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q014",
+    "title": "ELI5: Why do we get goosebumps when we're scared or cold?",
+    "body": "I know it's some leftover reflex from when we had more hair, but what is the actual mechanism? Why does a scary movie do the same thing as cold weather?",
+    "subreddit": "ExplainLikeImFive",
+    "options": [
+      "science",
+      "AskScience",
+      "ExplainLikeImFive",
+      "NoStupidQuestions"
+    ],
+    "difficulty": "easy",
+    "category": "science"
+  },
+  {
+    "id": "q015",
+    "title": "My rescue dog finally fell asleep on my lap after 6 months of being too nervous to come near me",
+    "body": "",
+    "subreddit": "aww",
+    "options": [
+      "aww",
+      "Eyebleach",
+      "rarepuppers",
+      "dogpictures"
+    ],
+    "difficulty": "easy",
+    "category": "pets"
+  },
+  {
+    "id": "q016",
+    "title": "The shelter sent me this photo of my new kitten on her first night home",
+    "body": "",
+    "subreddit": "aww",
+    "options": [
+      "Eyebleach",
+      "cats",
+      "rarepuppers",
+      "aww"
+    ],
+    "difficulty": "easy",
+    "category": "pets"
+  },
+  {
+    "id": "q017",
+    "title": "My grandma knitted a tiny sweater for our guinea pig and he actually loves it",
+    "body": "",
+    "subreddit": "aww",
+    "options": [
+      "aww",
+      "rarepuppers",
+      "Eyebleach",
+      "AnimalsBeingDerps"
+    ],
+    "difficulty": "easy",
+    "category": "pets"
+  },
+  {
+    "id": "q018",
+    "title": "After 3 years of trying, our adopted parrot said his first word today: 'hello'",
+    "body": "He has been silently watching us this whole time. Today he just looked at me and said it, clear as day.",
+    "subreddit": "aww",
+    "options": [
+      "AnimalsBeingDerps",
+      "birds",
+      "Eyebleach",
+      "aww"
+    ],
+    "difficulty": "easy",
+    "category": "pets"
+  },
+  {
+    "id": "q019",
+    "title": "[OC] I tracked every coffee I drank for a year and plotted it against my sleep quality",
+    "body": "Visualization made with Python. Yes, there is a clear cliff after the third cup, and yes, I have ignored it completely.",
+    "subreddit": "dataisbeautiful",
+    "options": [
+      "InternetIsBeautiful",
+      "dataisbeautiful",
+      "coolguides",
+      "MapPorn"
+    ],
+    "difficulty": "easy",
+    "category": "technology"
+  },
+  {
+    "id": "q020",
+    "title": "[OC] The most common first words of every hit song on the Billboard Hot 100, 1960–2025",
+    "body": "Scraped lyrics data and counted first words by decade. 'I' wins by a landslide in every single decade.",
+    "subreddit": "dataisbeautiful",
+    "options": [
+      "coolguides",
+      "dataisbeautiful",
+      "MapPorn",
+      "music"
+    ],
+    "difficulty": "easy",
+    "category": "music"
+  },
+  {
+    "id": "q021",
+    "title": "[OC] Visualizing 100 years of Olympic marathon winning times",
+    "body": "The curve flattens a lot after 1980. Data from official Olympic records, plotted with the winning time for each Games.",
+    "subreddit": "dataisbeautiful",
+    "options": [
+      "sports",
+      "MapPorn",
+      "coolguides",
+      "dataisbeautiful"
+    ],
+    "difficulty": "easy",
+    "category": "sports"
+  },
+  {
+    "id": "q022",
+    "title": "This tree grew around a street sign and now the sign is part of the trunk",
+    "body": "",
+    "subreddit": "mildlyinteresting",
+    "options": [
+      "DamnThatsInteresting",
+      "notinteresting",
+      "mildlyinteresting",
+      "interestingasfuck"
+    ],
+    "difficulty": "easy",
+    "category": "nature"
+  },
+  {
+    "id": "q023",
+    "title": "My hotel room number is 404 and the door sign says 'Room Not Found'",
+    "body": "",
+    "subreddit": "mildlyinteresting",
+    "options": [
+      "notinteresting",
+      "mildlyinteresting",
+      "interestingasfuck",
+      "DamnThatsInteresting"
+    ],
+    "difficulty": "easy",
+    "category": "funny"
+  },
+  {
+    "id": "q024",
+    "title": "The shadow of my ceiling fan looks exactly like a spider on the wall",
+    "body": "",
+    "subreddit": "mildlyinteresting",
+    "options": [
+      "notinteresting",
+      "interestingasfuck",
+      "DamnThatsInteresting",
+      "mildlyinteresting"
+    ],
+    "difficulty": "easy",
+    "category": "funny"
+  },
+  {
+    "id": "q025",
+    "title": "Map of the longest straight-line sea journey you can sail without hitting land",
+    "body": "",
+    "subreddit": "MapPorn",
+    "options": [
+      "geography",
+      "dataisbeautiful",
+      "oldmaps",
+      "MapPorn"
+    ],
+    "difficulty": "easy",
+    "category": "nature"
+  },
+  {
+    "id": "q026",
+    "title": "A map of Europe in 1914, just before everything changed",
+    "body": "",
+    "subreddit": "MapPorn",
+    "options": [
+      "dataisbeautiful",
+      "oldmaps",
+      "history",
+      "MapPorn"
+    ],
+    "difficulty": "easy",
+    "category": "history"
+  },
+  {
+    "id": "q027",
+    "title": "[OC] Every lighthouse on the coast of Ireland, mapped",
+    "body": "",
+    "subreddit": "MapPorn",
+    "options": [
+      "CityPorn",
+      "dataisbeautiful",
+      "geography",
+      "MapPorn"
+    ],
+    "difficulty": "easy",
+    "category": "nature"
+  },
+  {
+    "id": "q028",
+    "title": "Your childhood home probably still smells exactly the same, you just can't go back to check",
+    "body": "",
+    "subreddit": "Showerthoughts",
+    "options": [
+      "CrazyIdeas",
+      "unpopularopinion",
+      "Showerthoughts",
+      "RandomThoughts"
+    ],
+    "difficulty": "easy",
+    "category": "funny"
+  },
+  {
+    "id": "q029",
+    "title": "Somewhere in the world, someone is having the best day of their life right now, and someone else is having the worst",
+    "body": "",
+    "subreddit": "Showerthoughts",
+    "options": [
+      "RandomThoughts",
+      "Showerthoughts",
+      "CrazyIdeas",
+      "unpopularopinion"
+    ],
+    "difficulty": "easy",
+    "category": "funny"
+  },
+  {
+    "id": "q030",
+    "title": "We spend the first years of life learning to walk and talk, and the rest of it sitting down and being quiet",
+    "body": "",
+    "subreddit": "Showerthoughts",
+    "options": [
+      "RandomThoughts",
+      "CrazyIdeas",
+      "unpopularopinion",
+      "Showerthoughts"
+    ],
+    "difficulty": "easy",
+    "category": "funny"
+  },
+  {
+    "id": "q031",
+    "title": "[Homemade] 12-hour smoked brisket with pickled onions and cornbread",
+    "body": "",
+    "subreddit": "FoodPorn",
+    "options": [
+      "food",
+      "Cooking",
+      "FoodPorn",
+      "shittyfoodporn"
+    ],
+    "difficulty": "easy",
+    "category": "food"
+  },
+  {
+    "id": "q032",
+    "title": "[I ate] Hand-pulled noodles in a tiny shop in Taipei, $4",
+    "body": "",
+    "subreddit": "FoodPorn",
+    "options": [
+      "EatCheapAndHealthy",
+      "FoodPorn",
+      "Cooking",
+      "food"
+    ],
+    "difficulty": "easy",
+    "category": "food"
+  },
+  {
+    "id": "q033",
+    "title": "[Homemade] Sourdough with a perfect ear for the first time after 20 failed loaves",
+    "body": "The secret was a colder fridge retard, apparently. I almost cried when I scored it and it actually opened up.",
+    "subreddit": "FoodPorn",
+    "options": [
+      "Cooking",
+      "Baking",
+      "FoodPorn",
+      "food"
+    ],
+    "difficulty": "easy",
+    "category": "food"
+  },
+  {
+    "id": "q034",
+    "title": "I turned an old dresser into a bathroom vanity over two weekends",
+    "body": "Sealed the wood with marine varnish and cut the top for a vessel sink. Total cost was about $180, not counting the faucet.",
+    "subreddit": "DIY",
+    "options": [
+      "crafts",
+      "woodworking",
+      "HomeImprovement",
+      "DIY"
+    ],
+    "difficulty": "easy",
+    "category": "DIY"
+  },
+  {
+    "id": "q035",
+    "title": "Built a reading nook under the stairs for my daughter",
+    "body": "She picked the paint color. The cushions are just foam and old curtains, and she has barely left it since.",
+    "subreddit": "DIY",
+    "options": [
+      "DIY",
+      "woodworking",
+      "crafts",
+      "HomeImprovement"
+    ],
+    "difficulty": "easy",
+    "category": "DIY"
+  },
+  {
+    "id": "q036",
+    "title": "I made a coffee table out of my grandfather's old workbench",
+    "body": "Kept all the dents and saw marks. Added hairpin legs and a glass top so you can still see the history of it.",
+    "subreddit": "DIY",
+    "options": [
+      "DIY",
+      "HomeImprovement",
+      "woodworking",
+      "crafts"
+    ],
+    "difficulty": "easy",
+    "category": "DIY"
+  },
+  {
+    "id": "q037",
+    "title": "After 400 hours in Elden Ring, I finally beat Malenia without summons",
+    "body": "My hands were shaking so hard I almost dropped the controller during the second phase. Best feeling in gaming, honestly.",
+    "subreddit": "gaming",
+    "options": [
+      "gaming",
+      "Games",
+      "pcgaming",
+      "retrogaming"
+    ],
+    "difficulty": "easy",
+    "category": "gaming"
+  },
+  {
+    "id": "q038",
+    "title": "What game did you buy on a whim and end up playing for 500+ hours?",
+    "body": "Mine was Stardew Valley. Bought it on sale, next thing I know it's 3am and I'm rearranging my farm for the fifth time.",
+    "subreddit": "gaming",
+    "options": [
+      "gaming",
+      "GameDeals",
+      "Games",
+      "pcgaming"
+    ],
+    "difficulty": "easy",
+    "category": "gaming"
+  },
+  {
+    "id": "q039",
+    "title": "What movie did you watch as a kid that absolutely terrified you for no good reason?",
+    "body": "For me it was the flying monkeys. I still don't trust monkeys, and I'm 32 years old.",
+    "subreddit": "movies",
+    "options": [
+      "MovieDetails",
+      "movies",
+      "Cinephile",
+      "MovieSuggestions"
+    ],
+    "difficulty": "easy",
+    "category": "movies"
+  },
+  {
+    "id": "q040",
+    "title": "The way Interstellar handles time dilation still blows my mind on every rewatch",
+    "body": "The water planet scene is only an hour for them and 7 years pass on Earth. That scene gets me every time.",
+    "subreddit": "movies",
+    "options": [
+      "movies",
+      "MovieDetails",
+      "film",
+      "Cinephile"
+    ],
+    "difficulty": "easy",
+    "category": "movies"
+  },
+  {
+    "id": "q041",
+    "title": "I make $52k a year and just got a $10k bonus. Should I pay off my car loan or build my emergency fund first?",
+    "body": "Car loan is $8k at 6.5%. Emergency fund currently covers about 6 weeks. I keep going back and forth.",
+    "subreddit": "personalfinance",
+    "options": [
+      "povertyfinance",
+      "Frugal",
+      "personalfinance",
+      "investing"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q042",
+    "title": "My employer matches 401(k) up to 4%. I'm 24 and have never contributed. Am I already behind?",
+    "body": "I just learned what a match even is. Feeling dumb but I want to start now — where do I even begin?",
+    "subreddit": "personalfinance",
+    "options": [
+      "investing",
+      "financialplanning",
+      "Frugal",
+      "personalfinance"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q043",
+    "title": "I have $3,000 in credit card debt at 24% APR. What's the fastest realistic way out?",
+    "body": "Minimum payments barely move the balance. I take home about $2,400 a month and rent is $950.",
+    "subreddit": "personalfinance",
+    "options": [
+      "povertyfinance",
+      "Frugal",
+      "investing",
+      "personalfinance"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q044",
+    "title": "My landlord entered my apartment without notice while I was at work. Location: California",
+    "body": "He says it's fine because he owns the place. I have a doorbell camera showing him coming in twice this month.",
+    "subreddit": "legaladvice",
+    "options": [
+      "Ask_Lawyers",
+      "law",
+      "bestoflegaladvice",
+      "legaladvice"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q045",
+    "title": "My neighbor's tree fell on my fence during a storm. Who pays? Location: Texas",
+    "body": "The tree was visibly dead for a year and I mentioned it to him twice. He says it's an act of God.",
+    "subreddit": "legaladvice",
+    "options": [
+      "legaladvice",
+      "bestoflegaladvice",
+      "law",
+      "Ask_Lawyers"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q046",
+    "title": "I was fired two days after reporting a safety issue at work. Is this retaliation? Location: Ohio",
+    "body": "HR says it was performance related, but my last review was excellent and I have the emails to prove the timeline.",
+    "subreddit": "legaladvice",
+    "options": [
+      "bestoflegaladvice",
+      "legaladvice",
+      "Ask_Lawyers",
+      "law"
+    ],
+    "difficulty": "medium",
+    "category": "advice"
+  },
+  {
+    "id": "q047",
+    "title": "What's a small thing someone did for you that you'll never forget?",
+    "body": "A stranger paid for my groceries when my card declined in 2019. I still think about it whenever I'm in that store.",
+    "subreddit": "AskReddit",
+    "options": [
+      "TooAfraidToAsk",
+      "AskMen",
+      "CasualConversation",
+      "AskReddit"
+    ],
+    "difficulty": "medium",
+    "category": "relationships"
+  },
+  {
+    "id": "q048",
+    "title": "Chefs of Reddit, what's the one kitchen shortcut that actually works?",
+    "body": "No 'just buy better knives' answers please. I want the weird tricks that sound wrong but save real time.",
+    "subreddit": "AskReddit",
+    "options": [
+      "CasualConversation",
+      "AskReddit",
+      "Cooking",
+      "AskMen"
+    ],
+    "difficulty": "medium",
+    "category": "food"
+  },
+  {
+    "id": "q049",
+    "title": "What's the most useless talent you have that you're weirdly proud of?",
+    "body": "I can fold a fitted sheet perfectly. Every time. First try. Nobody in my life appreciates this.",
+    "subreddit": "AskReddit",
+    "options": [
+      "AskMen",
+      "AskReddit",
+      "TooAfraidToAsk",
+      "CasualConversation"
+    ],
+    "difficulty": "medium",
+    "category": "funny"
+  },
+  {
+    "id": "q050",
+    "title": "Why can't we just build a giant fan to blow hurricanes away from the coast?",
+    "body": "I know it sounds dumb, but how much energy would it actually take? Has anyone ever run the numbers on this?",
+    "subreddit": "AskScience",
+    "options": [
+      "AskScience",
+      "science",
+      "Physics",
+      "ExplainLikeImFive"
+    ],
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "id": "q051",
+    "title": "If the Earth stopped spinning suddenly, what exactly would happen to the oceans?",
+    "body": "Would they slosh eastward? Would there be a global mega-tsunami, or something even weirder?",
+    "subreddit": "AskScience",
+    "options": [
+      "AskScience",
+      "ExplainLikeImFive",
+      "Physics",
+      "science"
+    ],
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "id": "q052",
+    "title": "How do scientists know what the inside of the Earth looks like if nobody has ever been there?",
+    "body": "The deepest hole ever drilled is only about 12 km. How do we know about the core at all?",
+    "subreddit": "AskScience",
+    "options": [
+      "science",
+      "ExplainLikeImFive",
+      "AskScience",
+      "geology"
+    ],
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "id": "q053",
+    "title": "[TOMT][Movie][1990s] A kids' movie where a boy befriends a robot that lives in a junkyard",
+    "body": "I remember the robot had a round head and spoke in beeps. Definitely not The Iron Giant, this one was live action.",
+    "subreddit": "tipofmytongue",
+    "options": [
+      "tipofmytongue",
+      "namethatmovie",
+      "whatisthisthing",
+      "helpmefind"
+    ],
+    "difficulty": "medium",
+    "category": "movies"
+  },
+  {
+    "id": "q054",
+    "title": "[TOMT][Song][2000s] A pop song with a whistled chorus that was in every commercial for a while",
+    "body": "The music video had people dancing on a rooftop at sunset. I think the singer was Swedish, but I'm not sure.",
+    "subreddit": "tipofmytongue",
+    "options": [
+      "tipofmytongue",
+      "NameThatSong",
+      "helpmefind",
+      "whatisthisthing"
+    ],
+    "difficulty": "medium",
+    "category": "music"
+  },
+  {
+    "id": "q055",
+    "title": "Found this brass thing in my grandfather's toolbox. It's about 15 cm long and the top spins. What is it?",
+    "body": "There's a small dial on the side with numbers 1 to 10. No markings anywhere on it at all.",
+    "subreddit": "whatisthisthing",
+    "options": [
+      "Antiques",
+      "WhatIsThis",
+      "whatisthisthing",
+      "foundit"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q056",
+    "title": "This glass object came with the house we bought. It's built into the wall of the pantry. What was it for?",
+    "body": "About the size of a shoebox, with a little metal door. The house was built in 1928.",
+    "subreddit": "whatisthisthing",
+    "options": [
+      "WhatIsThis",
+      "whatisthisthing",
+      "HomeImprovement",
+      "Antiques"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q057",
+    "title": "Whole wheat on a pine tree, Portland OR",
+    "body": "",
+    "subreddit": "BreadStapledToTrees",
+    "options": [
+      "BrandNewSentence",
+      "notinteresting",
+      "ATBGE",
+      "BreadStapledToTrees"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q058",
+    "title": "A single slice of sourdough, stapled with great care, at eye level",
+    "body": "",
+    "subreddit": "BreadStapledToTrees",
+    "options": [
+      "ATBGE",
+      "notinteresting",
+      "BrandNewSentence",
+      "BreadStapledToTrees"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q059",
+    "title": "I just wanted to share that I finally called my grandmother today and we talked for two hours",
+    "body": "I've been meaning to do it for weeks. She told me about the garden and I told her about work. Nothing big, just nice.",
+    "subreddit": "CasualConversation",
+    "options": [
+      "AskReddit",
+      "CasualConversation",
+      "MadeMeSmile",
+      "self"
+    ],
+    "difficulty": "medium",
+    "category": "relationships"
+  },
+  {
+    "id": "q060",
+    "title": "I just had the best cup of coffee of my life at a random gas station and I need to tell someone",
+    "body": "It was in the middle of nowhere and the barista clearly took it very seriously. I asked for their beans and they wrote the roaster's name on a napkin.",
+    "subreddit": "CasualConversation",
+    "options": [
+      "Coffee",
+      "AskReddit",
+      "CasualConversation",
+      "Conversation"
+    ],
+    "difficulty": "medium",
+    "category": "relationships"
+  },
+  {
+    "id": "q061",
+    "title": "How do I fix a door that sticks every summer but is fine in winter?",
+    "body": "It's an interior door, solid wood, and it swells enough to jam by July. Sanding helps for about a month, then it comes back.",
+    "subreddit": "HomeImprovement",
+    "options": [
+      "DIY",
+      "HomeMaintenance",
+      "FixIt",
+      "HomeImprovement"
+    ],
+    "difficulty": "medium",
+    "category": "DIY"
+  },
+  {
+    "id": "q062",
+    "title": "Is it normal for a 1960s house to have no insulation in the attic at all?",
+    "body": "Our heating bill is wild and I just went up there — it's just bare joists and dust. Where do I even start?",
+    "subreddit": "HomeImprovement",
+    "options": [
+      "HomeImprovement",
+      "DIY",
+      "FixIt",
+      "HomeMaintenance"
+    ],
+    "difficulty": "medium",
+    "category": "DIY"
+  },
+  {
+    "id": "q063",
+    "title": "First attempt at croissants — 27 layers and I cried a little when they came out of the oven",
+    "body": "",
+    "subreddit": "Baking",
+    "options": [
+      "FoodPorn",
+      "AskBaking",
+      "Cooking",
+      "Baking"
+    ],
+    "difficulty": "medium",
+    "category": "food"
+  },
+  {
+    "id": "q064",
+    "title": "Why did my banana bread sink in the middle? Third time in a row",
+    "body": "I followed the recipe exactly, 350F for 55 minutes. The edges are perfect, the center collapses every time.",
+    "subreddit": "Baking",
+    "options": [
+      "Baking",
+      "Cooking",
+      "AskBaking",
+      "FoodPorn"
+    ],
+    "difficulty": "medium",
+    "category": "food"
+  },
+  {
+    "id": "q065",
+    "title": "Meal prep for the week: chicken shawarma bowls, 5 days, ~$4 per serving",
+    "body": "Rice, chicken thighs, pickled red onion, garlic sauce. About 2 hours total on Sunday, and lunch is sorted all week.",
+    "subreddit": "mealprep",
+    "options": [
+      "BudgetFood",
+      "mealprep",
+      "EatCheapAndHealthy",
+      "Cooking"
+    ],
+    "difficulty": "medium",
+    "category": "food"
+  },
+  {
+    "id": "q066",
+    "title": "First time meal prepping — did I make too much rice? Asking for my fridge",
+    "body": "I cooked 10 cups of dry rice. I live alone. Please send help and recipes.",
+    "subreddit": "mealprep",
+    "options": [
+      "food",
+      "mealprep",
+      "Cooking",
+      "EatCheapAndHealthy"
+    ],
+    "difficulty": "medium",
+    "category": "food"
+  },
+  {
+    "id": "q067",
+    "title": "Golden hour in the Scottish Highlands [OC]",
+    "body": "Shot on a Sony A7III, 24mm, f/8, 1/250s. Waited two hours for the fog to lift and it was worth every minute.",
+    "subreddit": "photography",
+    "options": [
+      "pics",
+      "photography",
+      "Itookapicture",
+      "landscapephotography"
+    ],
+    "difficulty": "medium",
+    "category": "photography"
+  },
+  {
+    "id": "q068",
+    "title": "How do you get sharp photos of birds in flight without a $5,000 lens?",
+    "body": "I'm shooting with a 70-300mm and everything comes out soft at full zoom. Is it my technique, my gear, or both?",
+    "subreddit": "photography",
+    "options": [
+      "Birding",
+      "Cameras",
+      "photography",
+      "photocritique"
+    ],
+    "difficulty": "medium",
+    "category": "photography"
+  },
+  {
+    "id": "q069",
+    "title": "Sunrise over the Dolomites, Italy [OC] [6000x4000]",
+    "body": "",
+    "subreddit": "EarthPorn",
+    "options": [
+      "landscapephotography",
+      "NatureIsFuckingLit",
+      "EarthPorn",
+      "pics"
+    ],
+    "difficulty": "medium",
+    "category": "nature"
+  },
+  {
+    "id": "q070",
+    "title": "The mist in this valley looked like an ocean this morning, Blue Ridge Mountains [OC]",
+    "body": "",
+    "subreddit": "EarthPorn",
+    "options": [
+      "NatureIsFuckingLit",
+      "pics",
+      "EarthPorn",
+      "landscapephotography"
+    ],
+    "difficulty": "medium",
+    "category": "nature"
+  },
+  {
+    "id": "q071",
+    "title": "NASA's new telescope just imaged a planet being born around a young star",
+    "body": "The spiral arms in the dust disk are exactly where models predicted a forming planet would be. Astronomy is having a great year.",
+    "subreddit": "space",
+    "options": [
+      "astrophotography",
+      "NASA",
+      "space",
+      "astronomy"
+    ],
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "id": "q072",
+    "title": "Why is it so hard to get a clear photo of the far side of the Moon from Earth?",
+    "body": "I know it's tidally locked, but we have satellites everywhere. What's the actual challenge here?",
+    "subreddit": "space",
+    "options": [
+      "NASA",
+      "space",
+      "AskScience",
+      "astronomy"
+    ],
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "id": "q073",
+    "title": "The first traffic jam in New York City, photographed in 1910 — mostly horse carts",
+    "body": "Fifth Avenue, completely gridlocked. The more things change, the more they stay the same.",
+    "subreddit": "history",
+    "options": [
+      "OldSchoolCool",
+      "history",
+      "AskHistorians",
+      "HistoryPorn"
+    ],
+    "difficulty": "medium",
+    "category": "history"
+  },
+  {
+    "id": "q074",
+    "title": "Letters from a soldier's wife, 1943: 'The garden is doing well, the baby said dada'",
+    "body": "Found in a box at an estate sale. I transcribed the whole set — they're painfully ordinary, and that's what makes them matter.",
+    "subreddit": "history",
+    "options": [
+      "HistoryPorn",
+      "history",
+      "AskHistorians",
+      "OldSchoolCool"
+    ],
+    "difficulty": "medium",
+    "category": "history"
+  },
+  {
+    "id": "q075",
+    "title": "Google announces it will stop supporting third-party cookies in Chrome by next year — again",
+    "body": "This is the third delay. Advertisers are relieved, privacy advocates are rolling their eyes.",
+    "subreddit": "technology",
+    "options": [
+      "gadgets",
+      "Futurology",
+      "technology",
+      "technews"
+    ],
+    "difficulty": "medium",
+    "category": "technology"
+  },
+  {
+    "id": "q076",
+    "title": "A single Raspberry Pi is now running the entire public library system of a small town in Wales",
+    "body": "Catalog, checkouts, late notices, all of it. The librarian set it up herself over a weekend.",
+    "subreddit": "technology",
+    "options": [
+      "raspberry_pi",
+      "technology",
+      "gadgets",
+      "Futurology"
+    ],
+    "difficulty": "medium",
+    "category": "technology"
+  },
+  {
+    "id": "q077",
+    "title": "Just finished 'Project Hail Mary' and I need someone to talk to about that ending",
+    "body": "No spoilers in the title, but the last 50 pages broke me in the best way. I sat in silence for ten minutes after closing it.",
+    "subreddit": "books",
+    "options": [
+      "BookRecommendations",
+      "books",
+      "Fantasy",
+      "suggestmeabook"
+    ],
+    "difficulty": "medium",
+    "category": "books"
+  },
+  {
+    "id": "q078",
+    "title": "What book did you almost give up on, but you're so glad you finished?",
+    "body": "Mine was Dune. The first 100 pages felt like homework. Then it clicked, and now it's my favorite book.",
+    "subreddit": "books",
+    "options": [
+      "suggestmeabook",
+      "BookRecommendations",
+      "books",
+      "Fantasy"
+    ],
+    "difficulty": "medium",
+    "category": "books"
+  },
+  {
+    "id": "q079",
+    "title": "Two weeks in Japan on $1,500 — full itinerary and what I'd do differently",
+    "body": "Kyoto, Osaka, and a tiny mountain town nobody talks about. Happy to answer questions about any of it.",
+    "subreddit": "travel",
+    "options": [
+      "solotravel",
+      "shoestring",
+      "backpacking",
+      "travel"
+    ],
+    "difficulty": "medium",
+    "category": "travel"
+  },
+  {
+    "id": "q080",
+    "title": "The night train from Vienna to Venice is the best $30 I've ever spent on travel",
+    "body": "Fell asleep in Austria, woke up in Italy. Breakfast on the train, coffee on the platform, and the whole day ahead.",
+    "subreddit": "travel",
+    "options": [
+      "solotravel",
+      "shoestring",
+      "travel",
+      "backpacking"
+    ],
+    "difficulty": "medium",
+    "category": "travel"
+  },
+  {
+    "id": "q081",
+    "title": "The accountant moonwalked into the dolphin tank and nobody stopped him because he had a clipboard",
+    "body": "",
+    "subreddit": "BrandNewSentence",
+    "options": [
+      "notinteresting",
+      "firstworldanarchists",
+      "BrandNewSentence",
+      "Unexpected"
+    ],
+    "difficulty": "hard",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q082",
+    "title": "My grandmother just asked me to explain cryptocurrency using only farm animals",
+    "body": "",
+    "subreddit": "BrandNewSentence",
+    "options": [
+      "BrandNewSentence",
+      "firstworldanarchists",
+      "Unexpected",
+      "notinteresting"
+    ],
+    "difficulty": "hard",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q083",
+    "title": "The plumber charged extra because my pipes were, in his words, 'haunted but politely'",
+    "body": "",
+    "subreddit": "BrandNewSentence",
+    "options": [
+      "Unexpected",
+      "BrandNewSentence",
+      "notinteresting",
+      "firstworldanarchists"
+    ],
+    "difficulty": "hard",
+    "category": "niche-weird"
+  },
+  {
+    "id": "q084",
+    "title": "He has one braincell and today it was on vacation — he tried to fight his own reflection for 40 minutes",
+    "body": "",
+    "subreddit": "OneOrangeBraincell",
+    "options": [
+      "Catmemes",
+      "AnimalsBeingDerps",
+      "OneOrangeBraincell",
+      "cats"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q085",
+    "title": "Orange cat logic: the food bowl is full, but the food is in the CENTER of the bowl, so obviously he's starving",
+    "body": "",
+    "subreddit": "OneOrangeBraincell",
+    "options": [
+      "Catmemes",
+      "AnimalsBeingDerps",
+      "OneOrangeBraincell",
+      "cats"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q086",
+    "title": "He screamed at the closed door for an hour. The door was open. He was screaming at the door frame.",
+    "body": "",
+    "subreddit": "OneOrangeBraincell",
+    "options": [
+      "Catmemes",
+      "cats",
+      "AnimalsBeingDerps",
+      "OneOrangeBraincell"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q087",
+    "title": "He stands like this every morning to look out the window and judge the neighbors",
+    "body": "",
+    "subreddit": "CatsStandingUp",
+    "options": [
+      "Catmemes",
+      "aww",
+      "cats",
+      "CatsStandingUp"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q088",
+    "title": "Caught him standing upright in the kitchen at 3am like a tiny furry landlord",
+    "body": "",
+    "subreddit": "CatsStandingUp",
+    "options": [
+      "CatsStandingUp",
+      "Catmemes",
+      "aww",
+      "cats"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q089",
+    "title": "She stands up to reach the treat jar and honestly it's the most human thing I've ever seen",
+    "body": "",
+    "subreddit": "CatsStandingUp",
+    "options": [
+      "CatsStandingUp",
+      "aww",
+      "Catmemes",
+      "cats"
+    ],
+    "difficulty": "hard",
+    "category": "pets"
+  },
+  {
+    "id": "q090",
+    "title": "A toilet made entirely of polished brass, installed in a suburban bathroom",
+    "body": "The craftsmanship is genuinely incredible. The taste is genuinely questionable. I have so many feelings about this.",
+    "subreddit": "ATBGE",
+    "options": [
+      "Shitty_Car_Mods",
+      "ATBGE",
+      "CrappyDesign",
+      "DiWHY"
+    ],
+    "difficulty": "hard",
+    "category": "art"
+  },
+  {
+    "id": "q091",
+    "title": "Someone bedazzled an entire grand piano, including the keys",
+    "body": "Every rhinestone is perfectly placed. It took 400 hours. Why? Nobody knows, and the owner refuses to explain.",
+    "subreddit": "ATBGE",
+    "options": [
+      "Shitty_Car_Mods",
+      "CrappyDesign",
+      "ATBGE",
+      "DiWHY"
+    ],
+    "difficulty": "hard",
+    "category": "art"
+  },
+  {
+    "id": "q092",
+    "title": "A full suit of armor made from old license plates, worn to a wedding",
+    "body": "The groom made it himself. The bride is smiling in every photo. I have questions and I want answers.",
+    "subreddit": "ATBGE",
+    "options": [
+      "mildlyinteresting",
+      "ATBGE",
+      "CrappyDesign",
+      "DiWHY"
+    ],
+    "difficulty": "hard",
+    "category": "art"
+  },
+  {
+    "id": "q093",
+    "title": "Me: 'I'll just quickly fix this one bug.' Me, 6 hours later, having rewritten the entire authentication system:",
+    "body": "",
+    "subreddit": "ProgrammerHumor",
+    "options": [
+      "programming",
+      "ProgrammerHumor",
+      "learnprogramming",
+      "softwaregore"
+    ],
+    "difficulty": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "q094",
+    "title": "'It works on my machine' — the four words that have ended more friendships than any argument",
+    "body": "",
+    "subreddit": "ProgrammerHumor",
+    "options": [
+      "programming",
+      "ProgrammerHumor",
+      "softwaregore",
+      "learnprogramming"
+    ],
+    "difficulty": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "q095",
+    "title": "My code: works perfectly. Also my code: I have no idea why it works and I'm afraid to touch it",
+    "body": "",
+    "subreddit": "ProgrammerHumor",
+    "options": [
+      "ProgrammerHumor",
+      "learnprogramming",
+      "softwaregore",
+      "programming"
+    ],
+    "difficulty": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "q096",
+    "title": "I'm learning Python and I don't understand why my loop runs one extra time — what am I missing?",
+    "body": "I've been staring at this for two hours. range(10) gives me 0-9, so why does my list have 11 items?",
+    "subreddit": "learnprogramming",
+    "options": [
+      "cs50",
+      "programming",
+      "learnprogramming",
+      "coding"
+    ],
+    "difficulty": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "q097",
+    "title": "Is it normal to feel completely lost after finishing a beginner course?",
+    "body": "I finished a Python course and now I open an empty file and my mind goes blank. Everyone says 'just build something' but I don't know what.",
+    "subreddit": "learnprogramming",
+    "options": [
+      "learnprogramming",
+      "programming",
+      "cs50",
+      "coding"
+    ],
+    "difficulty": "hard",
+    "category": "programming"
+  },
+  {
+    "id": "q098",
+    "title": "My first custom build: 65% board, lubed switches, foam mod — and it sounds like rain on a tent",
+    "body": "Total cost was way more than I told my partner. Worth every cent, and I can hear it from the next room.",
+    "subreddit": "MechanicalKeyboards",
+    "options": [
+      "DeskSetup",
+      "keycaps",
+      "keyboards",
+      "MechanicalKeyboards"
+    ],
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "id": "q099",
+    "title": "After 3 years of collecting, I finally found the keycap set that started it all",
+    "body": "Bought it for way too much money from a guy in a Discord server. No regrets. It was the one that got away.",
+    "subreddit": "MechanicalKeyboards",
+    "options": [
+      "keyboards",
+      "MechanicalKeyboards",
+      "DeskSetup",
+      "keycaps"
+    ],
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "id": "q100",
+    "title": "How do you mix vocals so they sit IN the track instead of ON TOP of it?",
+    "body": "My vocals always sound like they're floating above the instrumental. Compression? Reverb? Both? I've tried everything.",
+    "subreddit": "WeAreTheMusicMakers",
+    "options": [
+      "audioengineering",
+      "edmproduction",
+      "musictheory",
+      "WeAreTheMusicMakers"
+    ],
+    "difficulty": "hard",
+    "category": "music"
+  },
+  {
+    "id": "q101",
+    "title": "I made a full song using only sounds recorded in my kitchen and I'm weirdly proud of it",
+    "body": "The snare is a pot lid. The bass is a fridge hum pitched down. It slaps, honestly.",
+    "subreddit": "WeAreTheMusicMakers",
+    "options": [
+      "edmproduction",
+      "WeAreTheMusicMakers",
+      "audioengineering",
+      "BedroomBands"
+    ],
+    "difficulty": "hard",
+    "category": "music"
+  },
+  {
+    "id": "q102",
+    "title": "That 94th-minute winner yesterday is why I will never, ever leave a match early again",
+    "body": "Half the stadium had already gone. They missed the greatest comeback in the club's history.",
+    "subreddit": "soccer",
+    "options": [
+      "soccer",
+      "football",
+      "PremierLeague",
+      "sports"
+    ],
+    "difficulty": "hard",
+    "category": "sports"
+  },
+  {
+    "id": "q103",
+    "title": "Unpopular opinion: the best player on the pitch yesterday was the 19-year-old nobody had heard of",
+    "body": "Two assists, won every duel, and he was playing out of position. Remember the name.",
+    "subreddit": "soccer",
+    "options": [
+      "soccer",
+      "sports",
+      "football",
+      "PremierLeague"
+    ],
+    "difficulty": "hard",
+    "category": "sports"
+  },
+  {
+    "id": "q104",
+    "title": "Ran my first marathon at 52. Cried at mile 24, finished anyway, 4:31:07",
+    "body": "Started running two years ago because my doctor told me to walk more. This was not what he meant.",
+    "subreddit": "running",
+    "options": [
+      "triathlon",
+      "AdvancedRunning",
+      "fitness",
+      "running"
+    ],
+    "difficulty": "hard",
+    "category": "fitness"
+  },
+  {
+    "id": "q105",
+    "title": "What's your weird pre-race ritual? Mine is eating the exact same breakfast at the exact same time",
+    "body": "Two bananas, one bagel, coffee at 5:15am. If I change anything I convince myself I'll fail.",
+    "subreddit": "running",
+    "options": [
+      "running",
+      "fitness",
+      "AdvancedRunning",
+      "triathlon"
+    ],
+    "difficulty": "hard",
+    "category": "fitness"
+  },
+  {
+    "id": "q106",
+    "title": "Walnut coffee table I just finished — first time doing dovetail joints by hand",
+    "body": "Three months of weekends. The dovetails aren't perfect but they're mine, and the table is solid as a rock.",
+    "subreddit": "woodworking",
+    "options": [
+      "woodworking",
+      "DIY",
+      "carpentry",
+      "Woodcarving"
+    ],
+    "difficulty": "hard",
+    "category": "DIY"
+  },
+  {
+    "id": "q107",
+    "title": "How do you keep a cutting board from warping? Mine cupped after two weeks",
+    "body": "It's end-grain maple, finished with mineral oil. Stored flat. Still warped, and I don't know what I did wrong.",
+    "subreddit": "woodworking",
+    "options": [
+      "DIY",
+      "Woodcarving",
+      "carpentry",
+      "woodworking"
+    ],
+    "difficulty": "hard",
+    "category": "DIY"
+  },
+  {
+    "id": "q108",
+    "title": "My monstera finally put out a leaf with holes in it after a year of solid green leaves",
+    "body": "I moved it closer to the window and it immediately rewarded me. Plants are so dramatic.",
+    "subreddit": "plants",
+    "options": [
+      "gardening",
+      "plants",
+      "plantclinic",
+      "houseplants"
+    ],
+    "difficulty": "hard",
+    "category": "nature"
+  },
+  {
+    "id": "q109",
+    "title": "The plant I bought as 'unkillable' is dying and I need to know what I did wrong",
+    "body": "It's a snake plant. I watered it once a week. The internet said that's too much. The internet also said that's too little.",
+    "subreddit": "plants",
+    "options": [
+      "houseplants",
+      "plants",
+      "gardening",
+      "plantclinic"
+    ],
+    "difficulty": "hard",
+    "category": "nature"
+  },
+  {
+    "id": "q110",
+    "title": "Spotted a painted bunting at my feeder this morning — first one in 12 years of birding",
+    "body": "It stayed for four minutes. I got one blurry photo and I will treasure it forever.",
+    "subreddit": "Birding",
+    "options": [
+      "birds",
+      "ornithology",
+      "Birding",
+      "whatsthisbird"
+    ],
+    "difficulty": "hard",
+    "category": "nature"
+  },
+  {
+    "id": "q111",
+    "title": "What binoculars do you recommend for someone starting out? Budget around $200",
+    "body": "I mostly watch birds in a city park. I don't need professional gear, just something reliable.",
+    "subreddit": "Birding",
+    "options": [
+      "Birding",
+      "birds",
+      "whatsthisbird",
+      "ornithology"
+    ],
+    "difficulty": "hard",
+    "category": "nature"
+  },
+  {
+    "id": "q112",
+    "title": "The strategy call in the last 10 laps yesterday was either genius or madness, and I'm still not sure which",
+    "body": "Pitting from the lead with 8 laps to go. The entire pit wall held its breath.",
+    "subreddit": "formula1",
+    "options": [
+      "F1Technical",
+      "simracing",
+      "formula1",
+      "motorsport"
+    ],
+    "difficulty": "hard",
+    "category": "sports"
+  },
+  {
+    "id": "q113",
+    "title": "Why does everyone say the 2021 season finale was controversial? I just started watching F1",
+    "body": "I keep seeing it mentioned but nobody explains what actually happened. Can someone give me the neutral version?",
+    "subreddit": "formula1",
+    "options": [
+      "motorsport",
+      "simracing",
+      "F1Technical",
+      "formula1"
+    ],
+    "difficulty": "hard",
+    "category": "sports"
+  },
+  {
+    "id": "q114",
+    "title": "Shot on Portra 400, Contax G2 — the light in Lisbon does something to film",
+    "body": "",
+    "subreddit": "analog",
+    "options": [
+      "analog",
+      "Cameras",
+      "filmphotography",
+      "photography"
+    ],
+    "difficulty": "hard",
+    "category": "photography"
+  },
+  {
+    "id": "q115",
+    "title": "My grandfather's 1972 Pentax still works perfectly and the photos have a feeling my phone can't match",
+    "body": "First roll back from the lab. The grain, the colors — I'm hooked, and now I want to shoot film forever.",
+    "subreddit": "analog",
+    "options": [
+      "analog",
+      "Cameras",
+      "filmphotography",
+      "photography"
+    ],
+    "difficulty": "hard",
+    "category": "photography"
+  },
+  {
+    "id": "q116",
+    "title": "Just finished 'The Name of the Wind' and I have never been so angry at a book for ending",
+    "body": "I need to talk about Kvothe. I need the next book. I need therapy, probably.",
+    "subreddit": "Fantasy",
+    "options": [
+      "worldbuilding",
+      "books",
+      "Fantasy",
+      "fantasybooks"
+    ],
+    "difficulty": "hard",
+    "category": "books"
+  },
+  {
+    "id": "q117",
+    "title": "What fantasy book has the best magic system that ISN'T Brandon Sanderson?",
+    "body": "Love the guy, but I want to branch out. Hard magic preferred, and I'm fine with doorstoppers.",
+    "subreddit": "Fantasy",
+    "options": [
+      "worldbuilding",
+      "books",
+      "Fantasy",
+      "fantasybooks"
+    ],
+    "difficulty": "hard",
+    "category": "books"
+  },
+  {
+    "id": "q118",
+    "title": "Played Catan with my family last night and my mother-in-law is now banned from trading",
+    "body": "She traded me wheat for 'future considerations' and then won with the longest road. Ruthless.",
+    "subreddit": "boardgames",
+    "options": [
+      "soloboardgaming",
+      "gamedesign",
+      "tabletop",
+      "boardgames"
+    ],
+    "difficulty": "hard",
+    "category": "gaming"
+  },
+  {
+    "id": "q119",
+    "title": "What board game is genuinely fun with just two players? Everything we try feels like a compromise",
+    "body": "We've tried the big ones. Looking for something designed for two, not adapted for two.",
+    "subreddit": "boardgames",
+    "options": [
+      "soloboardgaming",
+      "gamedesign",
+      "boardgames",
+      "tabletop"
+    ],
+    "difficulty": "hard",
+    "category": "gaming"
+  },
+  {
+    "id": "q120",
+    "title": "A letter to my childhood best friend, who I haven't spoken to in ten years: I'm sorry I never called back",
+    "body": "You moved away and I told myself we'd stay in touch. Then life happened, and now I don't even know where you live. I hope you're doing well. I hope you know I still think about the summers we spent on your roof.",
+    "subreddit": "UnsentLetters",
+    "options": [
+      "TrueOffMyChest",
+      "offmychest",
+      "CasualConversation",
+      "UnsentLetters"
+    ],
+    "difficulty": "hard",
+    "category": "relationships"
+  },
+  {
+    "id": "q121",
+    "title": "TIFU by trying to impress my date with a homemade pasta sauce and setting off the fire alarm twice",
+    "body": "I was so focused on getting the garlic 'just right' that I forgot the bread in the oven. Twice. She laughed, the neighbors did not, and the fire department now knows my address by heart.",
+    "subreddit": "tifu",
+    "options": [
+      "tifu",
+      "AmItheAsshole",
+      "Wellthatsucks",
+      "facepalm"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "The 'TIFU by...' title format is r/tifu's signature — a self-inflicted mishap told as a story."
+  },
+  {
+    "id": "q122",
+    "title": "LPT: Take a photo of your hotel room number on your phone when you check in — you'll thank yourself at 2am",
+    "body": "After a long travel day, remembering 'Room 312 or 321?' is harder than it should be. A quick photo saves you wandering the hallway trying key cards on strangers' doors.",
+    "subreddit": "LifeProTips",
+    "options": [
+      "YouShouldKnow",
+      "LifeProTips",
+      "productivity",
+      "lifehacks"
+    ],
+    "difficulty": "easy",
+    "category": "advice",
+    "note": "The 'LPT:' prefix and practical everyday advice format is r/LifeProTips's signature."
+  },
+  {
+    "id": "q123",
+    "title": "Why do we say 'bless you' when someone sneezes but nothing when they cough?",
+    "body": "I've been saying it my whole life without thinking about it. Is there an actual reason, or is it just a habit we've all agreed on?",
+    "subreddit": "NoStupidQuestions",
+    "options": [
+      "AskReddit",
+      "TooAfraidToAsk",
+      "NoStupidQuestions",
+      "ExplainLikeImFive"
+    ],
+    "difficulty": "easy",
+    "category": "history",
+    "note": "A simple everyday question with no wrong way to ask it — exactly what r/NoStupidQuestions is for."
+  },
+  {
+    "id": "q124",
+    "title": "Unpopular opinion: group chats with more than 6 people are just noise with notifications",
+    "body": "Nobody reads anything, three conversations happen at once, and any actual plan gets buried under memes within minutes. Small chats are better in every way.",
+    "subreddit": "unpopularopinion",
+    "options": [
+      "Showerthoughts",
+      "TrueUnpopularOpinion",
+      "CasualConversation",
+      "unpopularopinion"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "The 'Unpopular opinion:' title format is r/unpopularopinion's signature."
+  },
+  {
+    "id": "q125",
+    "title": "My 80-year-old neighbor leaves a tiny origami crane on my doorstep every Monday, and I just found out he's been doing it for 6 years",
+    "body": "I always thought it was the kids next door. Yesterday I finally caught him — he smiled, waved, and said 'somebody has to start the week right.'",
+    "subreddit": "MadeMeSmile",
+    "options": [
+      "MadeMeSmile",
+      "wholesomememes",
+      "UpliftingNews",
+      "aww"
+    ],
+    "difficulty": "easy",
+    "category": "relationships",
+    "note": "A short, heartwarming real-life story — the bread and butter of r/MadeMeSmile."
+  },
+  {
+    "id": "q126",
+    "title": "You have never once seen your own face in person, only reflections and photos of it",
+    "body": "",
+    "subreddit": "Showerthoughts",
+    "options": [
+      "RandomThoughts",
+      "Showerthoughts",
+      "CrazyIdeas",
+      "unpopularopinion"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "A one-line philosophical observation about everyday life — classic r/Showerthoughts."
+  },
+  {
+    "id": "q127",
+    "title": "ELI5: Why does bread go stale even in a sealed bag?",
+    "body": "It's not drying out — the bag is sealed. So what actually changes inside the bread to make it hard and unpleasant?",
+    "subreddit": "ExplainLikeImFive",
+    "options": [
+      "AskScience",
+      "NoStupidQuestions",
+      "ExplainLikeImFive",
+      "TooAfraidToAsk"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "The 'ELI5:' prefix asking for a complex process in simple terms is r/ExplainLikeImFive's signature."
+  },
+  {
+    "id": "q128",
+    "title": "My local library has a vending machine that dispenses free short stories",
+    "body": "",
+    "subreddit": "mildlyinteresting",
+    "options": [
+      "notinteresting",
+      "DamnThatsInteresting",
+      "interestingasfuck",
+      "mildlyinteresting"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "A small, odd, everyday curiosity — not amazing enough for r/interestingasfuck, exactly right for r/mildlyinteresting."
+  },
+  {
+    "id": "q129",
+    "title": "[Homemade] Handmade ravioli stuffed with butternut squash and sage brown butter",
+    "body": "First time making pasta from scratch. The filling took longer than the dough, but the first bite made it all worth it.",
+    "subreddit": "FoodPorn",
+    "options": [
+      "FoodPorn",
+      "Cooking",
+      "food",
+      "shittyfoodporn"
+    ],
+    "difficulty": "easy",
+    "category": "food",
+    "note": "The '[Homemade]' tag and a beautifully presented dish are r/FoodPorn's signature format."
+  },
+  {
+    "id": "q130",
+    "title": "My mother, 1978, on her first motorcycle — she rode it across the country alone",
+    "body": "She was 24 and had just finished nursing school. The bike broke down three times and she fixed it herself every time.",
+    "subreddit": "OldSchoolCool",
+    "options": [
+      "TheWayWeWere",
+      "OldSchoolCool",
+      "history",
+      "OldPhotosInRealLife"
+    ],
+    "difficulty": "easy",
+    "category": "history",
+    "note": "A vintage personal photo of someone looking effortlessly cool — the defining post of r/OldSchoolCool."
+  },
+  {
+    "id": "q131",
+    "title": "CMV: Museums should be free for everyone, always",
+    "body": "Culture paid for by the public should be accessible to the public. Ticket prices turn museums into attractions for tourists and the wealthy, while locals who fund them through taxes get priced out. Change my view.",
+    "subreddit": "ChangeMyView",
+    "options": [
+      "unpopularopinion",
+      "Debate",
+      "ChangeMyView",
+      "CasualConversation"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "The 'CMV:' prefix inviting reasoned counterarguments is r/ChangeMyView's signature format."
+  },
+  {
+    "id": "q132",
+    "title": "In The Grand Budapest Hotel (2014), the aspect ratio changes in each time period to match the film style of that era",
+    "body": "The 1930s scenes are in the boxy 1.37:1 ratio, the 1960s scenes are widescreen 2.35:1, and the 1980s scenes are 1.85:1. It's a detail you feel more than notice.",
+    "subreddit": "MovieDetails",
+    "options": [
+      "movies",
+      "MovieSuggestions",
+      "Cinephile",
+      "MovieDetails"
+    ],
+    "difficulty": "medium",
+    "category": "movies",
+    "note": "A small, specific production detail from a named film — exactly what r/MovieDetails collects."
+  },
+  {
+    "id": "q133",
+    "title": "My coworker microwaves fish in the office kitchen every single day",
+    "body": "The whole floor smells like a harbor by 12:15. I've mentioned it twice and he just says 'it's good protein.' The microwave now permanently smells of haddock.",
+    "subreddit": "mildlyinfuriating",
+    "options": [
+      "mildlyinfuriating",
+      "CrappyDesign",
+      "Wellthatsucks",
+      "facepalm"
+    ],
+    "difficulty": "medium",
+    "category": "funny",
+    "note": "A small, everyday annoyance that isn't a disaster — just irritating enough for r/mildlyinfuriating."
+  },
+  {
+    "id": "q134",
+    "title": "Peeling the plastic film off a brand-new stovetop in one perfect pull [OC]",
+    "body": "No tears, no sticky residue, just one clean sheet coming away. I waited three weeks for this moment.",
+    "subreddit": "oddlysatisfying",
+    "options": [
+      "PowerWashingPorn",
+      "oddlysatisfying",
+      "DamnThatsInteresting",
+      "mildlyinteresting"
+    ],
+    "difficulty": "medium",
+    "category": "funny",
+    "note": "A simple, hypnotic moment of visual satisfaction — the core of r/oddlysatisfying."
+  },
+  {
+    "id": "q135",
+    "title": "Small metal object found in an old sewing kit — it folds open into three tiny spoons. What is it?",
+    "body": "About 8 cm long when closed. The spoons are different sizes and there's a tiny hinge. No markings at all.",
+    "subreddit": "whatisthisthing",
+    "options": [
+      "Antiques",
+      "WhatIsThis",
+      "whatisthisthing",
+      "helpmefind"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird",
+    "note": "An unidentified object with measurements and a request for identification — the classic r/whatisthisthing post."
+  },
+  {
+    "id": "q136",
+    "title": "[TOMT][Book][2010s] A fantasy novel where the magic system runs on memories, and using it makes you forget things",
+    "body": "The main character was a thief, I think, and every spell cost a memory. I read it years ago and can't remember the title — which feels ironic.",
+    "subreddit": "tipofmytongue",
+    "options": [
+      "Fantasy",
+      "helpmefind",
+      "whatsthatbook",
+      "tipofmytongue"
+    ],
+    "difficulty": "medium",
+    "category": "books",
+    "note": "The '[TOMT][Book][2010s]' tag format for a half-remembered title is r/tipofmytongue's signature."
+  },
+  {
+    "id": "q137",
+    "title": "Teachers of Reddit, what's the funniest thing a student has ever written on an exam?",
+    "body": "No names, no schools — just the answers that made you laugh out loud while grading.",
+    "subreddit": "AskReddit",
+    "options": [
+      "AskReddit",
+      "TooAfraidToAsk",
+      "AskMen",
+      "CasualConversation"
+    ],
+    "difficulty": "medium",
+    "category": "funny",
+    "note": "'Teachers of Reddit, what's…' — an open question addressed to a whole group is the classic r/AskReddit format."
+  },
+  {
+    "id": "q138",
+    "title": "I'm 30, debt-free, and just got my first real raise. How do I avoid lifestyle creep?",
+    "body": "I went from $48k to $62k and suddenly everything feels affordable. I don't want to look back in a year and wonder where it all went.",
+    "subreddit": "personalfinance",
+    "options": [
+      "Frugal",
+      "personalfinance",
+      "investing",
+      "financialplanning"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A specific personal money situation with numbers, asking for a plan — textbook r/personalfinance."
+  },
+  {
+    "id": "q139",
+    "title": "It's raining, I've got tea, and I just finished a book I loved. What are you all up to this weekend?",
+    "body": "No big plans here — maybe a long walk if the rain stops. I just wanted to chat with someone about nothing in particular.",
+    "subreddit": "CasualConversation",
+    "options": [
+      "AskReddit",
+      "Conversation",
+      "CasualConversation",
+      "self"
+    ],
+    "difficulty": "medium",
+    "category": "relationships",
+    "note": "A low-key 'just chatting' post with no question to answer and no problem to solve — pure r/CasualConversation."
+  },
+  {
+    "id": "q140",
+    "title": "I repaired my washing machine with a $6 part and a YouTube video instead of paying $180 for a callout",
+    "body": "The drain pump was clogged with a sock. Twenty minutes, one screwdriver, and the machine works like new. The repairman quoted $180 before even looking at it.",
+    "subreddit": "Frugal",
+    "options": [
+      "povertyfinance",
+      "DIY",
+      "personalfinance",
+      "Frugal"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "Saving real money by fixing instead of replacing — the core value of r/Frugal."
+  },
+  {
+    "id": "q141",
+    "title": "KAREN, MANAGER OF RETAIL — summons three assistant managers when her health drops below 50%",
+    "body": "Weakness: corporate policy. Immune to: logic, store hours, and the phrase 'I'm sorry.' Drops: a coupon for 10% off, expired.",
+    "subreddit": "Bossfight",
+    "options": [
+      "Bossfight",
+      "fakehistoryporn",
+      "MonsterHunter",
+      "worldbuilding"
+    ],
+    "difficulty": "hard",
+    "category": "gaming",
+    "note": "A real-world person reimagined as a video game boss with stats and weaknesses — the signature post of r/Bossfight."
+  },
+  {
+    "id": "q142",
+    "title": "My grandfather's 90th birthday dinner, caught mid-toast — it looks like a painting from 1650",
+    "body": "Nobody posed. The light from the window, the raised glasses, the dog asleep under the table — it just happened.",
+    "subreddit": "AccidentalRenaissance",
+    "options": [
+      "photography",
+      "AccidentalRenaissance",
+      "pics",
+      "Itookapicture"
+    ],
+    "difficulty": "hard",
+    "category": "photography",
+    "note": "An unposed photo that accidentally looks like a classical painting — exactly what r/AccidentalRenaissance collects."
+  },
+  {
+    "id": "q143",
+    "title": "[FO] First sweater ever — cables, colorwork, and 11 months of my life",
+    "body": "I frogged the sleeves three times and the neckline twice. The fit isn't perfect, but I made a whole sweater with my own hands and I'm not taking it off until spring.",
+    "subreddit": "knitting",
+    "options": [
+      "crochet",
+      "crafts",
+      "knitting",
+      "sewing"
+    ],
+    "difficulty": "hard",
+    "category": "DIY",
+    "note": "The '[FO]' (Finished Object) tag and project details are r/knitting's signature format."
+  },
+  {
+    "id": "q144",
+    "title": "MOC: A tiny working lighthouse with a rotating light, built from spare parts",
+    "body": "The light actually turns — there's a tiny motor hidden in the base. Took about 40 hours and most of my grey pieces.",
+    "subreddit": "lego",
+    "options": [
+      "modelmakers",
+      "3Dprinting",
+      "minipainting",
+      "lego"
+    ],
+    "difficulty": "hard",
+    "category": "DIY",
+    "note": "'MOC' (My Own Creation) is r/lego slang for an original build — this post is written in the community's own language."
+  },
+  {
+    "id": "q145",
+    "title": "The front of my toaster looks like it's screaming in horror every time the bread pops up",
+    "body": "Two slots for eyes, the lever as a mouth. I can't unsee it now, and breakfast will never be the same.",
+    "subreddit": "Pareidolia",
+    "options": [
+      "Pareidolia",
+      "mildlyinteresting",
+      "AccidentalArt",
+      "oddlysatisfying"
+    ],
+    "difficulty": "hard",
+    "category": "niche-weird",
+    "note": "Seeing a face in an everyday object is the definition of pareidolia — r/Pareidolia's entire premise."
+  },
+  {
+    "id": "q146",
+    "title": "The librarian challenged the goose to a staring contest and lost in under four seconds",
+    "body": "",
+    "subreddit": "BrandNewSentence",
+    "options": [
+      "firstworldanarchists",
+      "BrandNewSentence",
+      "Unexpected",
+      "notinteresting"
+    ],
+    "difficulty": "hard",
+    "category": "niche-weird",
+    "note": "A sentence nobody has ever said before, absurd on its own — the whole point of r/BrandNewSentence."
+  },
+  {
+    "id": "q147",
+    "title": "My orange boy got his head stuck in a cereal box and then blamed the box, the floor, and finally me",
+    "body": "",
+    "subreddit": "OneOrangeBraincell",
+    "options": [
+      "Catmemes",
+      "AnimalsBeingDerps",
+      "OneOrangeBraincell",
+      "cats"
+    ],
+    "difficulty": "hard",
+    "category": "pets",
+    "note": "An orange cat doing something spectacularly dim — r/OneOrangeBraincell exists for exactly this."
+  },
+  {
+    "id": "q148",
+    "title": "A chandelier made from 200 plastic spoons, hanging over a $3,000 dining table",
+    "body": "The spoons are hot-glued in perfect rows. It took weeks. The craftsmanship is undeniable. The taste is a war crime.",
+    "subreddit": "ATBGE",
+    "options": [
+      "Shitty_Car_Mods",
+      "CrappyDesign",
+      "DiWHY",
+      "ATBGE"
+    ],
+    "difficulty": "hard",
+    "category": "art",
+    "note": "Superb craftsmanship, terrible taste — the exact tension r/ATBGE (Awful Taste But Great Execution) celebrates."
+  },
+  {
+    "id": "q149",
+    "title": "Git commit message: 'fixed the bug'. The bug: still there. Me: 'fixed the bug (for real this time)'",
+    "body": "",
+    "subreddit": "ProgrammerHumor",
+    "options": [
+      "ProgrammerHumor",
+      "programming",
+      "softwaregore",
+      "learnprogramming"
+    ],
+    "difficulty": "hard",
+    "category": "programming",
+    "note": "A joke only programmers get, about the universal experience of lying in commit messages — r/ProgrammerHumor's bread and butter."
+  },
+  {
+    "id": "q150",
+    "title": "To the teacher who told me I'd never amount to anything: I run my own bakery now, and I think of you every time I open the shop",
+    "body": "You said it in front of the whole class. I was fifteen and I believed you for years. I don't need you to know this — I just needed to write it down somewhere.",
+    "subreddit": "UnsentLetters",
+    "options": [
+      "TrueOffMyChest",
+      "offmychest",
+      "UnsentLetters",
+      "CasualConversation"
+    ],
+    "difficulty": "hard",
+    "category": "relationships",
+    "note": "A letter addressed to someone who will never read it — the defining format of r/UnsentLetters."
+  }
+]
