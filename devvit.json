@@ -1,6 +1,6 @@
 {
   "$schema": "https://developers.reddit.com/schema/config-file.v1.json",
-  "name": "guess-the-subreddit",
+  "name": "guess-the-sub",
   "post": {
     "dir": "dist/client",
     "entrypoints": {
@@ -21,7 +21,7 @@
     "items": [
       {
         "label": "Create a new post",
-        "description": "guess-the-subreddit",
+        "description": "Guess the Subreddit",
         "location": "subreddit",
         "forUserType": "moderator",
         "endpoint": "/internal/menu/post-create"
