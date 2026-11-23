@@ -13,7 +13,9 @@ import {
 import { fetchLeaderboard, postShareComment } from '../lib/api';
 import { copyText } from '../lib/clipboard';
 import { rankLabel } from '../lib/format';
+import { Confetti } from './Confetti';
 import { Countdown } from './Countdown';
+import { SnooMark } from './SnooMark';
 
 export type ResultScreenProps = {
   result: GameResult;
@@ -102,13 +104,17 @@ export const ResultScreen = ({
 
   return (
     <div className="flex flex-col gap-5 px-4 py-5">
+      {isPerfect ? <Confetti /> : undefined}
       <div className="text-center animate-slide-up">
         <p className="text-xs font-bold tracking-widest text-gray-500 uppercase dark:text-gray-400">
-          Guess the Subreddit #{gameNumber}
+          <span className="inline-flex items-center gap-1.5">
+            <SnooMark className="h-4 w-4" />
+            Guess the Subreddit #{gameNumber}
+          </span>
         </p>
         {isPerfect ? (
           <div className="mt-3 animate-confetti-pop">
-            <p className="text-3xl">🎉</p>
+            <SnooMark className="mx-auto h-16 w-16 animate-float drop-shadow-sm" />
             <p className="mt-1 text-2xl font-extrabold text-ink dark:text-white">
               Perfect game!
             </p>
@@ -143,7 +149,10 @@ export const ResultScreen = ({
       <div className="flex items-center justify-center gap-2 text-center">
         {result.streak > 0 ? (
           <span className="rounded-full bg-brand-soft px-3.5 py-1.5 text-sm font-bold text-brand-dark dark:bg-brand-soft-dark dark:text-orange-300">
-            🔥 {result.streak}-day streak
+            <span className="inline-block animate-flame" aria-hidden="true">
+              🔥
+            </span>{' '}
+            {result.streak}-day streak
           </span>
         ) : undefined}
         {result.rank !== undefined ? (
@@ -188,6 +197,11 @@ export const ResultScreen = ({
           {sharing ? 'Posting…' : '💬 Share to comments'}
         </button>
       </div>
+
+      <p className="text-center text-xs text-gray-400">
+        Enjoyed today&apos;s puzzle? An upvote on the daily post helps more
+        sleuths find the game.
+      </p>
 
       {anonymous ? (
         <p className="rounded-2xl bg-gray-100 px-4 py-3 text-center text-sm text-gray-600 dark:bg-gray-800 dark:text-gray-300">
@@ -294,7 +308,24 @@ export const ResultScreen = ({
           { label: 'Games', value: String(stats.gamesPlayed) },
           { label: 'Accuracy', value: `${accuracy}%` },
           { label: 'Avg score', value: String(Math.round(stats.avgScore)) },
-          { label: 'Best streak', value: `🔥 ${stats.bestStreak}` },
+          {
+            label: 'Best streak',
+            value: (
+              <>
+                <span
+                  className={
+                    stats.bestStreak >= 1
+                      ? 'inline-block animate-flame'
+                      : 'inline-block'
+                  }
+                  aria-hidden="true"
+                >
+                  🔥
+                </span>{' '}
+                {stats.bestStreak}
+              </>
+            ),
+          },
         ].map((stat) => (
           <div
             key={stat.label}

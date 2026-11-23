@@ -8,6 +8,7 @@ import type { SplashResponse } from '../shared/api';
 import { MAX_DAILY_SCORE } from '../shared/game';
 import { fetchSplash } from './lib/api';
 import { formatDate } from './lib/format';
+import { SnooMark } from './components/SnooMark';
 
 /**
  * Inline feed view — kept deliberately light: one small fetch, no game
@@ -55,7 +56,8 @@ export const Splash = () => {
       </div>
 
       {data !== undefined ? (
-        <p className="rounded-full bg-white px-4 py-1.5 text-xs font-bold text-gray-600 shadow-sm dark:bg-night-card dark:text-gray-300">
+        <p className="inline-flex items-center gap-1.5 rounded-full bg-white px-4 py-1.5 text-xs font-bold text-gray-600 shadow-sm dark:bg-night-card dark:text-gray-300">
+          <SnooMark className="h-3.5 w-3.5" />
           Game #{data.gameNumber} · {formatDate(data.date)}
         </p>
       ) : undefined}

@@ -71,7 +71,15 @@ export const App = () => {
             className="flex shrink-0 cursor-pointer items-center gap-1 rounded-full bg-brand-soft px-3 py-1.5 text-sm font-extrabold text-brand-dark transition hover:bg-brand-soft dark:bg-brand-soft-dark dark:text-orange-300"
             title="Your streak — tap for stats"
           >
-            🔥 {streak}
+            <span
+              className={
+                streak >= 1 ? 'inline-block animate-flame' : 'inline-block'
+              }
+              aria-hidden="true"
+            >
+              🔥
+            </span>{' '}
+            {streak}
           </button>
         </div>
       </header>

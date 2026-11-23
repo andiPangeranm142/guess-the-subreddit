@@ -26,6 +26,8 @@
   --animate-confetti-pop: confetti-pop 0.7s cubic-bezier(0.34, 1.56, 0.64, 1)
     both;
   --animate-glow-pulse: glow-pulse 1.6s ease-in-out infinite;
+  --animate-flame: flame 1.2s ease-in-out infinite;
+  --animate-shake-flash: shake-flash 0.5s ease-in-out both;
 
   @keyframes fade-in {
     from {
@@ -128,6 +130,43 @@
       box-shadow: 0 0 0 7px rgba(22, 163, 74, 0);
     }
   }
+
+  @keyframes flame {
+    0%,
+    100% {
+      transform: scale(1) rotate(-2deg);
+    }
+    30% {
+      transform: scale(1.18) rotate(2deg);
+    }
+    60% {
+      transform: scale(1.05) rotate(-1deg);
+    }
+  }
+
+  @keyframes shake-flash {
+    0%,
+    100% {
+      transform: translateX(0);
+      box-shadow: 0 0 0 0 rgba(244, 63, 94, 0);
+    }
+    20% {
+      transform: translateX(-7px);
+      box-shadow: 0 0 0 4px rgba(244, 63, 94, 0.35);
+    }
+    40% {
+      transform: translateX(7px);
+      box-shadow: 0 0 0 6px rgba(244, 63, 94, 0.25);
+    }
+    60% {
+      transform: translateX(-5px);
+      box-shadow: 0 0 0 3px rgba(244, 63, 94, 0.15);
+    }
+    80% {
+      transform: translateX(5px);
+      box-shadow: 0 0 0 2px rgba(244, 63, 94, 0.08);
+    }
+  }
 }
 
 @layer base {
@@ -146,5 +185,54 @@
 
   &::-webkit-scrollbar {
     display: none;
+  }
+}
+
+/* Perfect-game confetti (see Confetti.tsx): the particle falls once while
+   the inner shape spins. Duration/delay come from inline styles. */
+.confetti-particle {
+  animation-name: confetti-fall;
+  animation-timing-function: cubic-bezier(0.25, 0.5, 0.55, 1);
+  animation-fill-mode: both;
+  will-change: transform, opacity;
+}
+
+.confetti-particle-inner {
+  animation-name: confetti-spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
+
+@keyframes confetti-fall {
+  0% {
+    transform: translate3d(0, -8vh, 0);
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 108vh, 0);
+    opacity: 0;
+  }
+}
+
+@keyframes confetti-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Calm the looping decorative animations for reduced-motion users.
+   (Confetti itself is gated in JS via matchMedia.) */
+@media (prefers-reduced-motion: reduce) {
+  .animate-flame,
+  .animate-float,
+  .animate-glow-pulse {
+    animation: none;
   }
 }

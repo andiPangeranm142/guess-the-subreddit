@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import type { ReactNode } from 'react';
 import type { PlayerStats } from '../../shared/api';
 import { FLAIR_MILESTONES, MAX_DAILY_SCORE } from '../../shared/game';
 import { fetchStats, toErrorMessage } from '../lib/api';
@@ -69,7 +70,7 @@ export const StatsPanel = () => {
 
   const cards: ReadonlyArray<{
     label: string;
-    value: string;
+    value: ReactNode;
     sub: string;
   }> = [
     {
@@ -94,7 +95,21 @@ export const StatsPanel = () => {
     },
     {
       label: 'Current streak',
-      value: `🔥 ${stats.currentStreak}`,
+      value: (
+        <>
+          <span
+            className={
+              stats.currentStreak >= 1
+                ? 'inline-block animate-flame'
+                : 'inline-block'
+            }
+            aria-hidden="true"
+          >
+            🔥
+          </span>{' '}
+          {stats.currentStreak}
+        </>
+      ),
       sub:
         stats.currentStreak === 1
           ? 'day in a row — keep it going'

@@ -42,7 +42,7 @@ const ANSWER_CLASSES: Record<AnswerState, string> = {
   correct:
     'border-emerald-500 bg-emerald-50 text-emerald-800 shadow-lg shadow-emerald-500/20 animate-glow-pulse dark:bg-emerald-900/40 dark:text-emerald-200',
   wrong:
-    'border-rose-500 bg-rose-50 text-rose-800 animate-shake dark:bg-rose-900/40 dark:text-rose-200',
+    'border-rose-500 bg-rose-50 text-rose-800 animate-shake-flash dark:bg-rose-900/40 dark:text-rose-200',
   dimmed:
     'border-gray-200 bg-white text-gray-400 opacity-50 dark:border-gray-700 dark:bg-night-card dark:text-gray-500',
 };
@@ -131,13 +131,27 @@ export const GameScreen = ({
               type="button"
               disabled={disabled}
               onClick={() => onAnswer(option)}
-              className={`flex w-full cursor-pointer items-center justify-between rounded-2xl border-2 px-4 py-3.5 text-left text-base font-bold transition-all duration-200 active:scale-[0.98] disabled:cursor-default ${ANSWER_CLASSES[state]}`}
+              className={`relative flex w-full cursor-pointer items-center justify-between rounded-2xl border-2 px-4 py-3.5 text-left text-base font-bold transition-all duration-200 active:scale-[0.98] disabled:cursor-default ${ANSWER_CLASSES[state]}`}
             >
               <span>r/{option}</span>
               {state === 'correct' ? (
                 <span className="text-lg">✓</span>
               ) : state === 'wrong' ? (
                 <span className="text-lg">✗</span>
+              ) : undefined}
+              {state === 'correct' && feedback?.correct ? (
+                <span
+                  aria-hidden="true"
+                  className="pointer-events-none absolute top-1/2 right-11 -mt-3 animate-rise"
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    className="h-6 w-6 drop-shadow-sm"
+                    fill="#FF4500"
+                  >
+                    <path d="M12 2.5 21 13h-5.25v8.5H8.25V13H3L12 2.5Z" />
+                  </svg>
+                </span>
               ) : undefined}
             </button>
           );
