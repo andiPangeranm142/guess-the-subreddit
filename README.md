@@ -21,7 +21,8 @@ Every day, five Reddit-style posts appear. Your job: guess which subreddit each 
 - **Yesterday's answers** — missed a day? See yesterday's questions, the correct subreddits, and a short note on why each post fits its community.
 - **Resume mid-game** — close the post halfway through and pick up where you left off.
 - **No login required to play** — anyone can play the full game; logging in saves your streak, stats, and leaderboard rank.
-- **150 hand-written questions** across ~50 subreddits, from household names to delightfully niche corners of Reddit. Every post is fictional, written in each community's authentic voice — no real posts, no real usernames, no external data.
+- **250 hand-written questions** across 105 subreddits, rotating on a 50-day no-repeat cycle — every question appears exactly once per cycle. Every post is fictional, written in each community's authentic voice — no real posts, no real usernames, no external data.
+- **Juicy feedback** — correct answers burst with a rising upvote arrow, wrong answers shake red, and a perfect game rains confetti under a floating Snoo.
 
 ## Tech
 
