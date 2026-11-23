@@ -86,8 +86,8 @@ export const gameNumberForDate = (date: string): number => {
 /**
  * Days in one no-repeat rotation cycle, derived from the bank size: each day
  * needs 2 easy + 2 medium + 1 hard, so the cycle is limited by the smallest
- * pool (easy and medium count double). With the 150-question bank (50/50/50)
- * the cycle is 25 days.
+ * pool (easy and medium count double). With the 250-question bank (100/100/50)
+ * the cycle is 50 days.
  */
 export const rotationCycleDays = (
   bank: ReadonlyArray<BankEntry>
@@ -111,9 +111,10 @@ export const rotationCycleDays = (
  *
  * Selection is a rotation, not a fresh random draw: each difficulty pool is
  * shuffled once with a fixed seed, and each day takes the next slice of that
- * order. Within one rotation cycle (25 days with the 150-question bank) no
- * question repeats. The hard pool rotates across cycles (cycle 2 uses the
- * second half of the hard order), so every question eventually appears. The
+ * order. Within one rotation cycle (50 days with the 250-question bank) no
+ * question repeats — one full cycle covers every question exactly once
+ * (100 easy / 2 per day, 100 medium / 2 per day, 50 hard / 1 per day). Later
+ * cycles repeat the same rotation order. The
  * 5 picked questions are shuffled with the date seed, so the in-day order
  * varies even when a cycle repeats. Throws if the bank is too small.
  */

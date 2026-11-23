@@ -2128,5 +2128,1505 @@
     "difficulty": "hard",
     "category": "relationships",
     "note": "A letter addressed to someone who will never read it — the defining format of r/UnsentLetters."
+  },
+  {
+    "id": "q151",
+    "title": "This lake turns bright pink every summer because of a tiny algae that only blooms when the water gets warm enough",
+    "body": "The color fades back to blue by October. Locals say the pink years are getting pinker.",
+    "subreddit": "DamnThatsInteresting",
+    "options": [
+      "DamnThatsInteresting",
+      "interestingasfuck",
+      "BeAmazed",
+      "todayilearned"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "A surprising real-world phenomenon presented as a wow fact — the classic r/DamnThatsInteresting post."
+  },
+  {
+    "id": "q152",
+    "title": "A 400-year-old tree in this village has its own postal address because people kept sending it letters",
+    "body": "The post office finally gave in and registered it. It now receives around 200 letters a year, mostly from children.",
+    "subreddit": "DamnThatsInteresting",
+    "options": [
+      "mildlyinteresting",
+      "DamnThatsInteresting",
+      "BeAmazed",
+      "MadeMeSmile"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "An odd-but-true slice of the world that makes you stop scrolling — exactly what r/DamnThatsInteresting is for."
+  },
+  {
+    "id": "q153",
+    "title": "A small town's library stayed open all winter as a warming shelter, and not a single book went missing",
+    "body": "Volunteers took turns staffing it overnight. The mayor says the program will run again next year — with more blankets.",
+    "subreddit": "UpliftingNews",
+    "options": [
+      "MadeMeSmile",
+      "wholesomememes",
+      "UpliftingNews",
+      "news"
+    ],
+    "difficulty": "easy",
+    "category": "relationships",
+    "note": "Feel-good news about ordinary people doing something kind — the whole point of r/UpliftingNews."
+  },
+  {
+    "id": "q154",
+    "title": "Doctors say a new treatment helped a 9-year-old hear her mother's voice for the first time",
+    "body": "Her parents had been told it might never happen. The first thing she asked for was a song.",
+    "subreddit": "UpliftingNews",
+    "options": [
+      "science",
+      "MadeMeSmile",
+      "todayilearned",
+      "UpliftingNews"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "A hopeful news story with a human payoff — textbook r/UpliftingNews."
+  },
+  {
+    "id": "q155",
+    "title": "Me: I can't adopt every stray cat in the neighborhood. Also me, building a tiny heated shelter for 'just the one'",
+    "body": "He has a name now. It's Gerald. He pays rent in headbutts.",
+    "subreddit": "wholesomememes",
+    "options": [
+      "wholesomememes",
+      "memes",
+      "MadeMeSmile",
+      "aww"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "A warm, self-aware meme about being kind — the house style of r/wholesomememes."
+  },
+  {
+    "id": "q156",
+    "title": "POV: your grandma learns to text and now every 'good morning' comes with twelve flower emojis and a blessing",
+    "body": "I have 400 unread messages and I refuse to delete a single one.",
+    "subreddit": "wholesomememes",
+    "options": [
+      "memes",
+      "wholesomememes",
+      "dankmemes",
+      "MadeMeSmile"
+    ],
+    "difficulty": "easy",
+    "category": "funny",
+    "note": "A wholesome relatable meme about family warmth — peak r/wholesomememes."
+  },
+  {
+    "id": "q157",
+    "title": "This is Biscuit. He carries his own leash to the park and waits by the gate if you're too slow.",
+    "body": "He has never once pulled. He simply leads, and you follow. 13/10, would follow again.",
+    "subreddit": "RarePuppers",
+    "options": [
+      "aww",
+      "dogpictures",
+      "RarePuppers",
+      "puppies"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A doggo rated with an absurdly high score and a wholesome caption — the r/RarePuppers format."
+  },
+  {
+    "id": "q158",
+    "title": "Pupper figured out how to open the treat jar, then closed it again and pretended nothing happened",
+    "body": "The evidence: one (1) crumb on his chin and zero remorse in his eyes. 14/10 master criminal.",
+    "subreddit": "RarePuppers",
+    "options": [
+      "aww",
+      "AnimalsBeingDerps",
+      "puppies",
+      "RarePuppers"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A silly doggo anecdote with a mock-serious rating — pure r/RarePuppers."
+  },
+  {
+    "id": "q159",
+    "title": "This is Mabel. She works at the airport and her job is sniffing out fruit in suitcases.",
+    "body": "She has a tiny uniform vest and a 100% success rate on mangoes. She takes her job very seriously.",
+    "subreddit": "DogswithJobs",
+    "options": [
+      "DogswithJobs",
+      "aww",
+      "RarePuppers",
+      "WorkingDogs"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A working dog presented with its job title like a professional profile — the r/DogswithJobs format."
+  },
+  {
+    "id": "q160",
+    "title": "Meet Gus, the library dog. Kids read to him every Tuesday and he has never once corrected anyone's pronunciation",
+    "body": "He falls asleep during the boring parts and the children think it's hilarious. Employee of the month, every month.",
+    "subreddit": "DogswithJobs",
+    "options": [
+      "aww",
+      "DogswithJobs",
+      "RarePuppers",
+      "MadeMeSmile"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A dog with a wholesome workplace role, described like a colleague — classic r/DogswithJobs."
+  },
+  {
+    "id": "q161",
+    "title": "My cat tried to jump onto the shelf, missed by a full meter, and then sat down like he meant to be on the floor all along",
+    "body": "He has done this three times today. He has learned nothing. I love him so much.",
+    "subreddit": "AnimalsBeingDerps",
+    "options": [
+      "aww",
+      "funny",
+      "AnimalsBeingDerps",
+      "cats"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "An animal doing something hilariously dumb, caught mid-fail — the heart of r/AnimalsBeingDerps."
+  },
+  {
+    "id": "q162",
+    "title": "This goat got its head stuck in a fence, screamed for help, then did the exact same thing five minutes after being rescued",
+    "body": "Some animals learn from mistakes. This goat is not one of them.",
+    "subreddit": "AnimalsBeingDerps",
+    "options": [
+      "aww",
+      "funny",
+      "goats",
+      "AnimalsBeingDerps"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A gloriously stupid animal moment retold with affection — textbook r/AnimalsBeingDerps."
+  },
+  {
+    "id": "q163",
+    "title": "🔥 A mushroom that glows bright green in the dark to attract insects that spread its spores",
+    "body": "It only glows on humid nights. Hikers in the area call it the ghost lantern.",
+    "subreddit": "NatureIsFuckingLit",
+    "options": [
+      "NatureIsFuckingLit",
+      "nature",
+      "DamnThatsInteresting",
+      "mycology"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A wild nature fact with a 🔥 and a sense of awe — the signature r/NatureIsFuckingLit post."
+  },
+  {
+    "id": "q164",
+    "title": "🔥 This lizard shoots blood from its eyes to scare off predators — and it actually works",
+    "body": "The blood tastes foul to coyotes, so one squirt usually ends the encounter. Evolution is unhinged.",
+    "subreddit": "NatureIsFuckingLit",
+    "options": [
+      "nature",
+      "NatureIsFuckingLit",
+      "DamnThatsInteresting",
+      "interestingasfuck"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A jaw-dropping animal adaptation with the 🔥 prefix — exactly how r/NatureIsFuckingLit posts look."
+  },
+  {
+    "id": "q165",
+    "title": "The Milky Way rising over a desert dune field, captured in a single 30-second exposure [OC]",
+    "body": "No compositing, no stacking — just a dark sky and a lot of patience. The glow on the horizon is a town 80 km away.",
+    "subreddit": "SpacePorn",
+    "options": [
+      "astrophotography",
+      "EarthPorn",
+      "SpacePorn",
+      "space"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "A stunning space image with technical details in the title — the r/SpacePorn house style."
+  },
+  {
+    "id": "q166",
+    "title": "Jupiter and its four Galilean moons lined up in a row, shot through a backyard telescope",
+    "body": "Io, Europa, Ganymede and Callisto, all in one frame. Taken on the clearest night of the year.",
+    "subreddit": "SpacePorn",
+    "options": [
+      "astrophotography",
+      "space",
+      "telescopes",
+      "SpacePorn"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "An amateur astronomy photo presented with quiet pride — classic r/SpacePorn."
+  },
+  {
+    "id": "q167",
+    "title": "Rainy night in the old town — neon signs reflecting on wet cobblestones [OC]",
+    "body": "Shot at 2 a.m. when the streets were finally empty. The blue sign is a 24-hour bakery.",
+    "subreddit": "CityPorn",
+    "options": [
+      "CityPorn",
+      "EarthPorn",
+      "photography",
+      "UrbanExploration"
+    ],
+    "difficulty": "easy",
+    "category": "photography",
+    "note": "A gorgeous cityscape photo with a moody one-line caption — the r/CityPorn format."
+  },
+  {
+    "id": "q168",
+    "title": "A tram crossing a foggy bridge at dawn, the city still asleep behind it",
+    "body": "Taken from the hill above the river. The fog burned off about ten minutes later.",
+    "subreddit": "CityPorn",
+    "options": [
+      "EarthPorn",
+      "CityPorn",
+      "photography",
+      "AbandonedPorn"
+    ],
+    "difficulty": "easy",
+    "category": "photography",
+    "note": "An atmospheric urban photo, all mood and no people — textbook r/CityPorn."
+  },
+  {
+    "id": "q169",
+    "title": "My reading nook finally feels finished — warm lamp, soft blanket, and a window seat just wide enough for two mugs of tea",
+    "body": "It took three years of thrift-store hunting to get here. The cat claimed it within an hour.",
+    "subreddit": "CozyPlaces",
+    "options": [
+      "RoomPorn",
+      "InteriorDesign",
+      "CozyPlaces",
+      "malelivingspace"
+    ],
+    "difficulty": "easy",
+    "category": "photography",
+    "note": "A warm, inviting little corner of someone's home — the whole appeal of r/CozyPlaces."
+  },
+  {
+    "id": "q170",
+    "title": "A tiny cabin porch with string lights, a rocking chair, and absolutely no cell signal",
+    "body": "The nearest neighbor is a 20-minute walk away. I have never slept better in my life.",
+    "subreddit": "CozyPlaces",
+    "options": [
+      "RoomPorn",
+      "camping",
+      "OffGrid",
+      "CozyPlaces"
+    ],
+    "difficulty": "easy",
+    "category": "photography",
+    "note": "A snug hideaway that makes you want to move in immediately — peak r/CozyPlaces."
+  },
+  {
+    "id": "q171",
+    "title": "My grandfather's cast iron skillet is 62 years old and still cooks better than anything I've bought new",
+    "body": "Three generations of Sunday breakfasts and the seasoning just keeps getting better. They really don't make them like this anymore.",
+    "subreddit": "BuyItForLife",
+    "options": [
+      "BuyItForLife",
+      "Frugal",
+      "Cooking",
+      "CastIron"
+    ],
+    "difficulty": "easy",
+    "category": "advice",
+    "note": "A decades-old product still going strong — the founding myth of r/BuyItForLife."
+  },
+  {
+    "id": "q172",
+    "title": "Looking for a backpack that will genuinely last 20 years of daily use — what do people here actually swear by?",
+    "body": "Budget is flexible if the quality is real. I've killed three cheap bags in five years and I'm done replacing them.",
+    "subreddit": "BuyItForLife",
+    "options": [
+      "Frugal",
+      "BuyItForLife",
+      "backpacks",
+      "manybags"
+    ],
+    "difficulty": "easy",
+    "category": "advice",
+    "note": "A durability-first buying question from someone tired of disposable gear — classic r/BuyItForLife."
+  },
+  {
+    "id": "q173",
+    "title": "First harvest from my tiny balcony garden — twelve tomatoes from two plants and I feel like a farmer",
+    "body": "I started these from seed in March and talked to them every morning. Worth it.",
+    "subreddit": "gardening",
+    "options": [
+      "houseplants",
+      "vegetablegardening",
+      "gardening",
+      "Homesteading"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A proud first-harvest post from a small-space gardener — the heartbeat of r/gardening."
+  },
+  {
+    "id": "q174",
+    "title": "Why are my zucchini plants producing flowers but no actual zucchini?",
+    "body": "Dozens of blooms, zero fruit. Am I missing a pollination step, or is something else going on?",
+    "subreddit": "gardening",
+    "options": [
+      "plantclinic",
+      "houseplants",
+      "vegetablegardening",
+      "gardening"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A beginner's troubleshooting question with a specific symptom — everyday r/gardening."
+  },
+  {
+    "id": "q175",
+    "title": "My monstera just unfurled its first leaf with an actual hole in it and I'm unreasonably emotional about it",
+    "body": "I've had this plant for two years and babied it through a move. Look at that fenestration!",
+    "subreddit": "houseplants",
+    "options": [
+      "houseplants",
+      "plants",
+      "gardening",
+      "Monstera"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A proud plant-parent milestone with a touch of plant jargon — very r/houseplants."
+  },
+  {
+    "id": "q176",
+    "title": "Is it normal for a pothos to just... keep going? Mine has reached the floor and shows no signs of stopping",
+    "body": "It's now longer than I am tall. Do I trim it, or do I let it take over the apartment?",
+    "subreddit": "houseplants",
+    "options": [
+      "plants",
+      "houseplants",
+      "gardening",
+      "IndoorGarden"
+    ],
+    "difficulty": "easy",
+    "category": "nature",
+    "note": "A cheerful houseplant question from a slightly overwhelmed owner — classic r/houseplants."
+  },
+  {
+    "id": "q177",
+    "title": "Printed a replacement knob for my washing machine instead of buying a whole new panel — total cost about 40 cents",
+    "body": "Measured the old one with calipers, modeled it in an evening, and it fits perfectly. This hobby keeps paying for itself.",
+    "subreddit": "3Dprinting",
+    "options": [
+      "functionalprint",
+      "DIY",
+      "3Dprinting",
+      "maker"
+    ],
+    "difficulty": "easy",
+    "category": "technology",
+    "note": "A practical everyday fix printed at home — the kind of win r/3Dprinting loves."
+  },
+  {
+    "id": "q178",
+    "title": "My first multi-color print: a tiny dragon that took 11 hours and three filament swaps",
+    "body": "The stringing is a bit rough but I'm calling it character. My desk now has a guardian.",
+    "subreddit": "3Dprinting",
+    "options": [
+      "3Dmodeling",
+      "functionalprint",
+      "DIY",
+      "3Dprinting"
+    ],
+    "difficulty": "easy",
+    "category": "technology",
+    "note": "A first-big-print showcase with honest notes on the flaws — textbook r/3Dprinting."
+  },
+  {
+    "id": "q179",
+    "title": "First build, $900 budget — will this parts list actually work together, or am I about to order a very expensive mistake?",
+    "body": "Mainly for 1080p gaming and some light video editing. The motherboard choice is the part I'm least sure about.",
+    "subreddit": "buildapc",
+    "options": [
+      "buildapc",
+      "pcmasterrace",
+      "buildapcforme",
+      "techsupport"
+    ],
+    "difficulty": "easy",
+    "category": "technology",
+    "note": "A first-timer's parts-list sanity check — the most common post type on r/buildapc."
+  },
+  {
+    "id": "q180",
+    "title": "Upgraded my five-year-old PC with just a new GPU and SSD — it feels like a brand new machine",
+    "body": "Boot time went from two minutes to twelve seconds. Should have done this a year ago.",
+    "subreddit": "buildapc",
+    "options": [
+      "pcmasterrace",
+      "buildapc",
+      "battlestations",
+      "hardware"
+    ],
+    "difficulty": "easy",
+    "category": "technology",
+    "note": "A satisfying upgrade story with before-and-after numbers — classic r/buildapc."
+  },
+  {
+    "id": "q181",
+    "title": "I finally beat the 1200-rated bot after losing to it 40 times in a row — and it was a checkmate in the endgame I actually saw coming",
+    "body": "I hung my queen on move 12 and still won. I don't know whether to be proud or concerned.",
+    "subreddit": "chess",
+    "options": [
+      "AnarchyChess",
+      "ChessBeginners",
+      "chess",
+      "boardgames"
+    ],
+    "difficulty": "easy",
+    "category": "gaming",
+    "note": "A milestone win over a chess bot, told with self-deprecating joy — everyday r/chess."
+  },
+  {
+    "id": "q182",
+    "title": "Why does every beginner guide say to develop knights before bishops? What's the actual reasoning?",
+    "body": "I understand the rule, I just want to know why it exists. Is it about central control, or something else?",
+    "subreddit": "chess",
+    "options": [
+      "ChessBeginners",
+      "AnarchyChess",
+      "learnchess",
+      "chess"
+    ],
+    "difficulty": "easy",
+    "category": "gaming",
+    "note": "A beginner asking for the reasoning behind a chess principle — a staple r/chess question."
+  },
+  {
+    "id": "q183",
+    "title": "[WP] You are a lighthouse keeper, but the ships you guide are not on any sea — they sail between the stars",
+    "body": "Every light you switch on is a safe harbor for someone a million miles from home.",
+    "subreddit": "WritingPrompts",
+    "options": [
+      "WritingPrompts",
+      "writing",
+      "FantasyWriters",
+      "shortstories"
+    ],
+    "difficulty": "easy",
+    "category": "books",
+    "note": "A bracketed [WP] premise that hands writers a world in one sentence — the r/WritingPrompts format."
+  },
+  {
+    "id": "q184",
+    "title": "[WP] The last library on Earth is a single room, and the librarian has just found a book that shouldn't exist",
+    "body": "It has no author, no title page — and the first chapter describes tomorrow.",
+    "subreddit": "WritingPrompts",
+    "options": [
+      "writing",
+      "WritingPrompts",
+      "scifiwriting",
+      "Worldbuilding"
+    ],
+    "difficulty": "easy",
+    "category": "books",
+    "note": "A [WP] prompt built on one irresistible mystery — exactly what r/WritingPrompts is for."
+  },
+  {
+    "id": "q185",
+    "title": "I just finished a 900-page fantasy epic and now everything else feels too short — what should I read next?",
+    "body": "I want another huge world I can disappear into for weeks. Bonus points if the map is in the front of the book.",
+    "subreddit": "suggestmeabook",
+    "options": [
+      "books",
+      "Fantasy",
+      "suggestmeabook",
+      "BookRecommendations"
+    ],
+    "difficulty": "easy",
+    "category": "books",
+    "note": "A reader chasing the feeling of their last great book — the classic r/suggestmeabook request."
+  },
+  {
+    "id": "q186",
+    "title": "Books that are genuinely funny, not just 'amusing'? I want to laugh out loud on the train and not care",
+    "body": "I've tried the usual recommendations and they were clever but not funny. Give me the ones that actually made you laugh.",
+    "subreddit": "suggestmeabook",
+    "options": [
+      "books",
+      "BookRecommendations",
+      "humor",
+      "suggestmeabook"
+    ],
+    "difficulty": "easy",
+    "category": "books",
+    "note": "A specific mood-based book request with a clear bar — textbook r/suggestmeabook."
+  },
+  {
+    "id": "q187",
+    "title": "Why do so many great albums fall apart on the last three tracks?",
+    "body": "I've noticed it across genres — the sequencing feels front-loaded, like the band ran out of steam. Is it a production thing, or am I imagining a pattern?",
+    "subreddit": "LetsTalkMusic",
+    "options": [
+      "LetsTalkMusic",
+      "music",
+      "musictheory",
+      "albums"
+    ],
+    "difficulty": "easy",
+    "category": "music",
+    "note": "An open-ended discussion question about how music works — the core of r/LetsTalkMusic."
+  },
+  {
+    "id": "q188",
+    "title": "What album did you completely change your mind about after hearing it live?",
+    "body": "I thought it was overrated for years, then one concert flipped the whole thing for me. Now I can't stop playing it.",
+    "subreddit": "LetsTalkMusic",
+    "options": [
+      "music",
+      "LetsTalkMusic",
+      "Concerts",
+      "listentothis"
+    ],
+    "difficulty": "easy",
+    "category": "music",
+    "note": "A discussion prompt that invites personal music stories — classic r/LetsTalkMusic."
+  },
+  {
+    "id": "q189",
+    "title": "Found this 1978 pressing at a flea market for $3 — cleaned it up and it plays beautifully",
+    "body": "One light scratch on side B that you can barely hear. The sleeve even has the original inner lyric sheet.",
+    "subreddit": "vinyl",
+    "options": [
+      "VinylCollectors",
+      "music",
+      "vinyl",
+      "ThriftStoreHauls"
+    ],
+    "difficulty": "easy",
+    "category": "music",
+    "note": "A crate-digging find with the price bragged about — the r/vinyl victory post."
+  },
+  {
+    "id": "q190",
+    "title": "My setup is finally done: turntable, thrifted speakers, and a shelf of records I've been collecting for six years",
+    "body": "The whole thing cost less than one new soundbar. It sounds warmer than anything I've streamed.",
+    "subreddit": "vinyl",
+    "options": [
+      "audiophile",
+      "battlestations",
+      "hometheater",
+      "vinyl"
+    ],
+    "difficulty": "easy",
+    "category": "music",
+    "note": "A finished listening setup shown off with pride — a staple r/vinyl post."
+  },
+  {
+    "id": "q191",
+    "title": "Why does the Moon look huge near the horizon but normal when it's high in the sky?",
+    "body": "Is it an optical illusion, or does the atmosphere actually magnify it? I've heard both explanations.",
+    "subreddit": "AskScience",
+    "options": [
+      "AskScience",
+      "ExplainLikeImFive",
+      "space",
+      "Physics"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "A classic 'why does this everyday thing happen' question — r/AskScience at its most accessible."
+  },
+  {
+    "id": "q192",
+    "title": "What's a small thing someone did for you recently that you still think about?",
+    "body": "A stranger held the elevator for me yesterday and asked how my day was going. It was such a tiny moment but it stuck with me.",
+    "subreddit": "CasualConversation",
+    "options": [
+      "AskReddit",
+      "CasualConversation",
+      "MadeMeSmile",
+      "TrueOffMyChest"
+    ],
+    "difficulty": "easy",
+    "category": "relationships",
+    "note": "A gentle open question inviting small everyday stories — the heart of r/CasualConversation."
+  },
+  {
+    "id": "q193",
+    "title": "He stood up to see what was on the counter and immediately regretted his life choices",
+    "body": "He held the pose for a full five seconds, saw the empty fruit bowl, and sat back down in defeat.",
+    "subreddit": "CatsStandingUp",
+    "options": [
+      "cats",
+      "aww",
+      "CatsStandingUp",
+      "CatPictures"
+    ],
+    "difficulty": "easy",
+    "category": "pets",
+    "note": "A cat caught mid-stand, captioned like a tiny person — the entire premise of r/CatsStandingUp."
+  },
+  {
+    "id": "q194",
+    "title": "I tracked every cup of coffee I drank for a year — here's when my caffeine habit actually peaks [OC]",
+    "body": "Mondays at 9 a.m. are the worst, obviously. The December spike is entirely holiday deadlines.",
+    "subreddit": "dataisbeautiful",
+    "options": [
+      "visualization",
+      "data",
+      "InternetIsBeautiful",
+      "dataisbeautiful"
+    ],
+    "difficulty": "easy",
+    "category": "science",
+    "note": "Personal data turned into a chart with an [OC] tag — the r/dataisbeautiful signature."
+  },
+  {
+    "id": "q195",
+    "title": "Built a bookshelf out of reclaimed pallets — total cost $28 and one very patient weekend",
+    "body": "Sanded everything twice, stained it walnut, and it actually holds all my books without wobbling.",
+    "subreddit": "DIY",
+    "options": [
+      "DIY",
+      "woodworking",
+      "HomeImprovement",
+      "crafts"
+    ],
+    "difficulty": "easy",
+    "category": "DIY",
+    "note": "A finished homemade project with the cost proudly stated — classic r/DIY."
+  },
+  {
+    "id": "q196",
+    "title": "My first attempt at sourdough actually rose — I may have cried a little when I cut it open",
+    "body": "The crumb isn't perfect and the ear is more of a nub, but it tastes like real bread. My starter's name is Doughbi-Wan.",
+    "subreddit": "Baking",
+    "options": [
+      "Breadit",
+      "Baking",
+      "sourdough",
+      "Cooking"
+    ],
+    "difficulty": "easy",
+    "category": "food",
+    "note": "A proud first-bake post with a punny starter name — very r/Baking."
+  },
+  {
+    "id": "q197",
+    "title": "Why did my cookies spread into one giant flat cookie? What went wrong?",
+    "body": "I followed the recipe exactly, but they merged into a single sheet. Was the butter too warm?",
+    "subreddit": "Baking",
+    "options": [
+      "Cooking",
+      "food",
+      "Baking",
+      "AskCulinary"
+    ],
+    "difficulty": "easy",
+    "category": "food",
+    "note": "A baking fail with a troubleshooting question — everyday r/Baking."
+  },
+  {
+    "id": "q198",
+    "title": "Played my first game of the big strategy box last night — four hours, one betrayal, and I immediately want to play again",
+    "body": "We were supposed to stop at midnight. Nobody did. The final round came down to a single point.",
+    "subreddit": "boardgames",
+    "options": [
+      "gaming",
+      "tabletop",
+      "Games",
+      "boardgames"
+    ],
+    "difficulty": "easy",
+    "category": "gaming",
+    "note": "A first-play report full of table drama — the kind of story r/boardgames loves."
+  },
+  {
+    "id": "q199",
+    "title": "What board game is genuinely fun with only two players? Most of our collection needs four",
+    "body": "My partner and I keep buying games that fall flat at two. We like strategy but not three-hour epics.",
+    "subreddit": "boardgames",
+    "options": [
+      "boardgames",
+      "gaming",
+      "Games",
+      "tabletopgaming"
+    ],
+    "difficulty": "easy",
+    "category": "gaming",
+    "note": "A two-player recommendation request — one of the most common r/boardgames questions."
+  },
+  {
+    "id": "q200",
+    "title": "Morning fog rolling through a valley of pine trees, seen from the ridge trail [OC]",
+    "body": "Hiked up before sunrise for this. The fog cleared about twenty minutes later.",
+    "subreddit": "EarthPorn",
+    "options": [
+      "NatureIsFuckingLit",
+      "EarthPorn",
+      "photography",
+      "hiking"
+    ],
+    "difficulty": "easy",
+    "category": "photography",
+    "note": "A breathtaking landscape photo with an [OC] tag and a quiet caption — pure r/EarthPorn."
+  },
+  {
+    "id": "q201",
+    "title": "How did ordinary people in medieval towns actually tell the time before clocks were common?",
+    "body": "Church bells marked the hours, but what about the gaps in between? Did people just estimate, or were there other signals?",
+    "subreddit": "AskHistorians",
+    "options": [
+      "history",
+      "AskReddit",
+      "AskHistorians",
+      "MedievalHistory"
+    ],
+    "difficulty": "medium",
+    "category": "history",
+    "note": "A precise question about everyday life in the past — exactly the kind r/AskHistorians exists for."
+  },
+  {
+    "id": "q202",
+    "title": "What did a Roman soldier actually carry in his pack on a long march?",
+    "body": "I've read the lists of equipment, but how much did it weigh in practice, and what did soldiers quietly leave behind?",
+    "subreddit": "AskHistorians",
+    "options": [
+      "history",
+      "ancientrome",
+      "ArtefactPorn",
+      "AskHistorians"
+    ],
+    "difficulty": "medium",
+    "category": "history",
+    "note": "A detailed question about the logistics of the ancient world — textbook r/AskHistorians."
+  },
+  {
+    "id": "q203",
+    "title": "I redesigned my hometown's flag — the current one is just the city seal on a white bedsheet",
+    "body": "Three stripes for the river, the hill, and the old market square. The seal is gone. The mayor's office has not replied.",
+    "subreddit": "vexillology",
+    "options": [
+      "vexillology",
+      "flags",
+      "design",
+      "heraldry"
+    ],
+    "difficulty": "medium",
+    "category": "history",
+    "note": "A flag redesign with a rant about seal-on-a-bedsheet flags — peak r/vexillology."
+  },
+  {
+    "id": "q204",
+    "title": "Why do so many flags use red, white, and blue? Is it copying, or is there something deeper going on?",
+    "body": "It can't be a coincidence that so many unrelated countries landed on the same three colors.",
+    "subreddit": "vexillology",
+    "options": [
+      "flags",
+      "vexillology",
+      "history",
+      "geography"
+    ],
+    "difficulty": "medium",
+    "category": "history",
+    "note": "A vexillology question about a pattern across flags — classic r/vexillology."
+  },
+  {
+    "id": "q205",
+    "title": "Men of Reddit, what's a small gesture from a partner that means way more to you than they'd expect?",
+    "body": "Not the big romantic stuff — the tiny everyday things that actually stick with you.",
+    "subreddit": "AskMen",
+    "options": [
+      "AskReddit",
+      "AskWomen",
+      "AskMen",
+      "relationship_advice"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A 'Men of Reddit' question inviting honest personal answers — the r/AskMen format."
+  },
+  {
+    "id": "q206",
+    "title": "Guys, at what point did you realize you were actually an adult?",
+    "body": "For me it was getting excited about a new vacuum cleaner. I felt a piece of my youth leave my body.",
+    "subreddit": "AskMen",
+    "options": [
+      "AskReddit",
+      "AskWomen",
+      "CasualConversation",
+      "AskMen"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A reflective question addressed directly to men — textbook r/AskMen."
+  },
+  {
+    "id": "q207",
+    "title": "Women of Reddit, what's something men do that they think is charming but actually isn't?",
+    "body": "Genuinely curious, not looking for a fight — I want to know what lands wrong so I can stop doing it.",
+    "subreddit": "AskWomen",
+    "options": [
+      "AskWomen",
+      "AskReddit",
+      "AskMen",
+      "TwoXChromosomes"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A 'Women of Reddit' question seeking honest perspective — the r/AskWomen format."
+  },
+  {
+    "id": "q208",
+    "title": "Ladies, what's the best compliment you've ever received that had nothing to do with how you look?",
+    "body": "Mine was a coworker saying 'you explain things in a way that makes people feel smart.' I still think about it.",
+    "subreddit": "AskWomen",
+    "options": [
+      "AskReddit",
+      "AskWomen",
+      "AskMen",
+      "MadeMeSmile"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A thoughtful question inviting women's personal stories — classic r/AskWomen."
+  },
+  {
+    "id": "q209",
+    "title": "[PC][2000s] A strategy game where you built a tiny island city and a volcano kept threatening to erupt",
+    "body": "I remember the music being very calm and the volcano having a countdown timer. I've been searching for this game for years.",
+    "subreddit": "tipofmyjoystick",
+    "options": [
+      "tipofmytongue",
+      "retrogaming",
+      "tipofmyjoystick",
+      "Games"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A half-remembered game described by platform, era, and one vivid detail — the r/tipofmyjoystick formula."
+  },
+  {
+    "id": "q210",
+    "title": "[PS2][2004-2006] A racing game where you could drive a delivery van and the whole map was one big city at night",
+    "body": "I think the van had a pizza logo on the side. The soundtrack was all jazz. Nobody I know remembers this game.",
+    "subreddit": "tipofmyjoystick",
+    "options": [
+      "tipofmytongue",
+      "ps2",
+      "retrogaming",
+      "tipofmyjoystick"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A fuzzy memory of an obscure game, tagged by console and era — classic r/tipofmyjoystick."
+  },
+  {
+    "id": "q211",
+    "title": "Finally played a 2016 open-world game in 2026 — ten years of patches later, it's the complete game it always should have been",
+    "body": "Bought it for $8 on sale. Zero bugs, all the DLC included, and the world feels alive. Waiting was the right call.",
+    "subreddit": "patientgamers",
+    "options": [
+      "patientgamers",
+      "Games",
+      "gaming",
+      "GameDeals"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A late-to-the-party review celebrating a patient purchase — the r/patientgamers ethos in one post."
+  },
+  {
+    "id": "q212",
+    "title": "What's a game you bought on release that you wish you'd waited a year for?",
+    "body": "Mine launched broken, got fixed in six months, and then went on sale for half price. Never again.",
+    "subreddit": "patientgamers",
+    "options": [
+      "Games",
+      "patientgamers",
+      "gaming",
+      "ShouldIbuythisgame"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A discussion about the cost of impatience — a recurring r/patientgamers topic."
+  },
+  {
+    "id": "q213",
+    "title": "The long take in this film isn't showing off — it's the only way the scene's dread actually works",
+    "body": "Every cut would have given the audience a breath. The camera refuses to blink, so neither can we. That's the whole point of the sequence.",
+    "subreddit": "TrueFilm",
+    "options": [
+      "movies",
+      "FilmTheorists",
+      "TrueFilm",
+      "cinematography"
+    ],
+    "difficulty": "medium",
+    "category": "movies",
+    "note": "A serious analysis of a filmmaking choice, argued in depth — the r/TrueFilm standard."
+  },
+  {
+    "id": "q214",
+    "title": "Why do some directors reuse the same actors across completely different films?",
+    "body": "It's more than loyalty — the audience carries the old roles into the new ones, and the director knows it. Is that a feature or a crutch?",
+    "subreddit": "TrueFilm",
+    "options": [
+      "movies",
+      "filmmaking",
+      "TrueCinema",
+      "TrueFilm"
+    ],
+    "difficulty": "medium",
+    "category": "movies",
+    "note": "An analytical question about directorial craft — exactly the discussion r/TrueFilm is built for."
+  },
+  {
+    "id": "q215",
+    "title": "What horror movie scared you the most even though almost nothing happens in it?",
+    "body": "No monsters, no gore — just dread and a house that feels wrong. I couldn't sleep after it and I still can't explain why.",
+    "subreddit": "horror",
+    "options": [
+      "horror",
+      "movies",
+      "horrormovies",
+      "creepy"
+    ],
+    "difficulty": "medium",
+    "category": "movies",
+    "note": "A discussion of slow-burn dread over jump scares — a favorite r/horror topic."
+  },
+  {
+    "id": "q216",
+    "title": "The scariest thing in this movie is the sound design — the score drops out completely right before something happens",
+    "body": "The silence is the tell. Once you notice it, every quiet scene becomes unbearable.",
+    "subreddit": "horror",
+    "options": [
+      "movies",
+      "horror",
+      "horrormovies",
+      "audioengineering"
+    ],
+    "difficulty": "medium",
+    "category": "movies",
+    "note": "A horror discussion focused on craft rather than plot — classic r/horror."
+  },
+  {
+    "id": "q217",
+    "title": "What science fiction novel has the most believable future technology — not the coolest, the most plausible?",
+    "body": "I'm tired of faster-than-light handwaving. I want the book where the tech feels like it could actually exist in fifty years.",
+    "subreddit": "scifi",
+    "options": [
+      "sciencefiction",
+      "books",
+      "scifi",
+      "printSF"
+    ],
+    "difficulty": "medium",
+    "category": "books",
+    "note": "A discussion about plausibility in science fiction — a recurring r/scifi debate."
+  },
+  {
+    "id": "q218",
+    "title": "The best sci-fi isn't about the future at all — it's about the present, wearing a spacesuit",
+    "body": "Every great sci-fi story I've loved was really about something happening right now. The future is just the costume.",
+    "subreddit": "scifi",
+    "options": [
+      "books",
+      "Futurology",
+      "philosophy",
+      "scifi"
+    ],
+    "difficulty": "medium",
+    "category": "books",
+    "note": "A big-idea take on what science fiction is really for — the kind of post r/scifi loves to argue about."
+  },
+  {
+    "id": "q219",
+    "title": "Small brown bird with a bright yellow stripe over its eye, seen in a city park this morning — what is it?",
+    "body": "About sparrow-sized, very jumpy, and it kept flicking its tail. Photos are blurry because it would not sit still.",
+    "subreddit": "whatsthisbird",
+    "options": [
+      "whatsthisbird",
+      "Birding",
+      "whatisthisthing",
+      "Ornithology"
+    ],
+    "difficulty": "medium",
+    "category": "nature",
+    "note": "A bird ID request with field marks and behavior notes — the standard r/whatsthisbird post."
+  },
+  {
+    "id": "q220",
+    "title": "Heard this call at dawn for a week straight — three descending notes, then silence. What bird is it?",
+    "body": "I'm in a suburban area with lots of trees. The recording is rough but the pattern is clear.",
+    "subreddit": "whatsthisbird",
+    "options": [
+      "Birding",
+      "whatsthisbird",
+      "whatsthisbug",
+      "birding"
+    ],
+    "difficulty": "medium",
+    "category": "nature",
+    "note": "A mystery bird identified by its song alone — a classic r/whatsthisbird puzzle."
+  },
+  {
+    "id": "q221",
+    "title": "Found this beetle in my garden — shiny green, about 2 cm long, with tiny gold spots on its back",
+    "body": "It was sitting on a tomato leaf and didn't move when I got close. Location is southern France.",
+    "subreddit": "whatsthisbug",
+    "options": [
+      "whatisthisthing",
+      "Entomology",
+      "whatsthisbug",
+      "bugs"
+    ],
+    "difficulty": "medium",
+    "category": "nature",
+    "note": "A bug ID request with size, color, and location — the r/whatsthisbug template."
+  },
+  {
+    "id": "q222",
+    "title": "Tiny red mites all over my windowsill every spring — what are they and should I be worried?",
+    "body": "They appear for about two weeks and then vanish. They don't seem to bite, but there are hundreds of them.",
+    "subreddit": "whatsthisbug",
+    "options": [
+      "whatisthisthing",
+      "pestcontrol",
+      "Entomology",
+      "whatsthisbug"
+    ],
+    "difficulty": "medium",
+    "category": "nature",
+    "note": "A seasonal mystery bug with a 'should I worry' kicker — textbook r/whatsthisbug."
+  },
+  {
+    "id": "q223",
+    "title": "My door won't latch unless I lift the handle — is this a hinge problem or a strike plate problem?",
+    "body": "It started after a humid summer. The door looks slightly saggy on the handle side.",
+    "subreddit": "fixit",
+    "options": [
+      "fixit",
+      "DIY",
+      "HomeImprovement",
+      "AskContractors"
+    ],
+    "difficulty": "medium",
+    "category": "DIY",
+    "note": "A specific household repair question with a symptom and a guess — the r/fixit format."
+  },
+  {
+    "id": "q224",
+    "title": "The toilet runs for a few seconds every ten minutes — what part do I actually need to replace?",
+    "body": "I've watched three tutorials and they all point at different parts. The flapper looks fine to me.",
+    "subreddit": "fixit",
+    "options": [
+      "DIY",
+      "fixit",
+      "HomeImprovement",
+      "Plumbing"
+    ],
+    "difficulty": "medium",
+    "category": "DIY",
+    "note": "A 'which part is it' repair question from a frustrated homeowner — classic r/fixit."
+  },
+  {
+    "id": "q225",
+    "title": "Car makes a grinding noise only when turning left — what should I check first?",
+    "body": "2015 sedan, 90k miles. The noise started last week and gets worse at low speed. No warning lights.",
+    "subreddit": "MechanicAdvice",
+    "options": [
+      "Cartalk",
+      "cars",
+      "MechanicAdvice",
+      "AutoMechanics"
+    ],
+    "difficulty": "medium",
+    "category": "DIY",
+    "note": "A car symptom described with year, mileage, and conditions — the r/MechanicAdvice template."
+  },
+  {
+    "id": "q226",
+    "title": "Is it actually worth replacing the timing belt at 100k miles if the car runs fine?",
+    "body": "The shop quoted me $800 and says it's preventive. The car has no symptoms at all. Am I being upsold?",
+    "subreddit": "MechanicAdvice",
+    "options": [
+      "Cartalk",
+      "cars",
+      "personalfinance",
+      "MechanicAdvice"
+    ],
+    "difficulty": "medium",
+    "category": "DIY",
+    "note": "A 'is this repair really necessary' question with a quote — everyday r/MechanicAdvice."
+  },
+  {
+    "id": "q227",
+    "title": "Why do planes still have ashtrays in the lavatories when smoking has been banned for decades?",
+    "body": "I noticed one on a flight yesterday and it made no sense. Is it a regulation thing, or just leftover hardware?",
+    "subreddit": "aviation",
+    "options": [
+      "aviation",
+      "flying",
+      "AskReddit",
+      "planes"
+    ],
+    "difficulty": "medium",
+    "category": "technology",
+    "note": "A curious 'why is this still here' question about aircraft details — a favorite r/aviation topic."
+  },
+  {
+    "id": "q228",
+    "title": "Watched a plane land in a crosswind yesterday and the pilot crabbed the whole way down — how hard is that to learn?",
+    "body": "The nose was pointed 20 degrees off the runway until the last second. It looked impossible from the ground.",
+    "subreddit": "aviation",
+    "options": [
+      "flying",
+      "aviation",
+      "pilots",
+      "aerospace"
+    ],
+    "difficulty": "medium",
+    "category": "technology",
+    "note": "A plane-spotting observation turned into a piloting question — classic r/aviation."
+  },
+  {
+    "id": "q229",
+    "title": "My first open-water dive: I was terrified for ten minutes, then a turtle swam past and I forgot to be scared",
+    "body": "The instructor said my air consumption was terrible, but honestly I was too busy staring at everything.",
+    "subreddit": "scuba",
+    "options": [
+      "diving",
+      "Ocean",
+      "scuba",
+      "travel"
+    ],
+    "difficulty": "medium",
+    "category": "sports",
+    "note": "A first-dive story mixing nerves and wonder — the kind of post r/scuba loves."
+  },
+  {
+    "id": "q230",
+    "title": "How do you deal with equalizing problems? One ear always clears slower than the other",
+    "body": "I've tried the usual techniques and nothing works reliably. It's the only thing holding back my dives.",
+    "subreddit": "scuba",
+    "options": [
+      "diving",
+      "freediving",
+      "swimming",
+      "scuba"
+    ],
+    "difficulty": "medium",
+    "category": "sports",
+    "note": "A specific diving technique question from a struggling beginner — textbook r/scuba."
+  },
+  {
+    "id": "q231",
+    "title": "I want to learn to draw faces, but every tutorial assumes I already know anatomy — where do I actually start?",
+    "body": "I can draw a decent cube. Faces turn into nightmares. I need a path from zero that doesn't skip steps.",
+    "subreddit": "IWantToLearn",
+    "options": [
+      "IWantToLearn",
+      "learnart",
+      "ArtFundamentals",
+      "LearnToDraw"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A 'where do I start from zero' learning request — the core of r/IWantToLearn."
+  },
+  {
+    "id": "q232",
+    "title": "I want to learn a second language as an adult with 20 minutes a day — is that actually enough?",
+    "body": "Everyone says immersion is the only way, but I have a job and a life. What's realistic?",
+    "subreddit": "IWantToLearn",
+    "options": [
+      "languagelearning",
+      "IWantToLearn",
+      "LearnALanguage",
+      "selfimprovement"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A practical learning question with a real time constraint — classic r/IWantToLearn."
+  },
+  {
+    "id": "q233",
+    "title": "YSK: your phone's flashlight can be dimmed by long-pressing the icon — useful when you don't want to blind everyone at 3 a.m.",
+    "body": "Found this by accident after years of full-blast flashlight. Works on most phones.",
+    "subreddit": "YouShouldKnow",
+    "options": [
+      "LifeProTips",
+      "protips",
+      "YouShouldKnow",
+      "technology"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A small practical tip framed as 'you should know' — the r/YouShouldKnow format."
+  },
+  {
+    "id": "q234",
+    "title": "YSK: most libraries let you borrow e-books and audiobooks for free with a library card — no late fees, they just expire",
+    "body": "I spent years paying for audiobooks before someone told me this. The app is genuinely good.",
+    "subreddit": "YouShouldKnow",
+    "options": [
+      "LifeProTips",
+      "Frugal",
+      "books",
+      "YouShouldKnow"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A 'you're missing out on something free' tip — textbook r/YouShouldKnow."
+  },
+  {
+    "id": "q235",
+    "title": "A cool guide to reading nutrition labels without getting fooled by serving sizes",
+    "body": "The 'per serving' trick is how a tiny bag of chips claims to have only 100 calories. This chart breaks it down.",
+    "subreddit": "coolguides",
+    "options": [
+      "coolguides",
+      "InternetIsBeautiful",
+      "LifeProTips",
+      "educationalgifs"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A visual explainer that makes a confusing topic simple — the r/coolguides promise."
+  },
+  {
+    "id": "q236",
+    "title": "A cool guide to which mushrooms are safe, which are not, and which ones you should never even touch",
+    "body": "One page, clear photos, and a big red section. Print it before your next hike.",
+    "subreddit": "coolguides",
+    "options": [
+      "mycology",
+      "coolguides",
+      "foraging",
+      "educationalgifs"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A one-page visual reference on a high-stakes topic — classic r/coolguides."
+  },
+  {
+    "id": "q237",
+    "title": "Finally moved my home server out of the closet and into a proper rack — the cable management took longer than the build",
+    "body": "It runs my media server, backups, and a Minecraft server for my kids. The blinking lights make me unreasonably happy.",
+    "subreddit": "homelab",
+    "options": [
+      "selfhosted",
+      "servers",
+      "homelab",
+      "DataHoarder"
+    ],
+    "difficulty": "medium",
+    "category": "technology",
+    "note": "A home server setup shown off with pride in the blinking lights — peak r/homelab."
+  },
+  {
+    "id": "q238",
+    "title": "What do you actually run on your homelab that you couldn't live without?",
+    "body": "I've got the hardware, but I'm still figuring out which services are worth the effort. What earns its place on your rack?",
+    "subreddit": "homelab",
+    "options": [
+      "selfhosted",
+      "sysadmin",
+      "HomeServer",
+      "homelab"
+    ],
+    "difficulty": "medium",
+    "category": "technology",
+    "note": "A 'what services do you run' discussion — a recurring r/homelab thread."
+  },
+  {
+    "id": "q239",
+    "title": "Year 3, and I just realized I've been giving Shane beer every day — no wonder he's always at the saloon",
+    "body": "I thought I was being nice. The game was trying to tell me something and I completely missed it.",
+    "subreddit": "StardewValley",
+    "options": [
+      "StardewValley",
+      "StardewMods",
+      "CozyGamers",
+      "farmingsim"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A late realization about a villager's storyline — the kind of confession r/StardewValley loves."
+  },
+  {
+    "id": "q240",
+    "title": "Rate my farm layout — I finally finished the shed area and the paths actually connect now",
+    "body": "It took two in-game years to get the crops, the animals, and the decorations in the right places.",
+    "subreddit": "StardewValley",
+    "options": [
+      "CozyGamers",
+      "StardewValley",
+      "StardewMemes",
+      "gaming"
+    ],
+    "difficulty": "medium",
+    "category": "gaming",
+    "note": "A farm-layout showcase asking for feedback — a staple r/StardewValley post."
+  },
+  {
+    "id": "q241",
+    "title": "My landlord says I owe for carpet replacement after five years of normal use — is that actually my responsibility?",
+    "body": "The carpet was old when I moved in and there's no damage beyond wear. They're keeping my whole deposit over it.",
+    "subreddit": "legaladvice",
+    "options": [
+      "TenantHelp",
+      "personalfinance",
+      "legaladvice",
+      "AskALawyer"
+    ],
+    "difficulty": "medium",
+    "category": "advice",
+    "note": "A tenant-landlord dispute with a deposit on the line — one of the most common r/legaladvice questions."
+  },
+  {
+    "id": "q242",
+    "title": "Every river in Europe, drawn as a single connected network [OC]",
+    "body": "The Danube system alone is a work of art. Made from open elevation data over about three weeks.",
+    "subreddit": "MapPorn",
+    "options": [
+      "dataisbeautiful",
+      "geography",
+      "oldmaps",
+      "MapPorn"
+    ],
+    "difficulty": "medium",
+    "category": "science",
+    "note": "A beautiful data-driven map with an [OC] tag — the r/MapPorn standard."
+  },
+  {
+    "id": "q243",
+    "title": "My partner and I keep having the same argument about chores — how do couples actually solve this?",
+    "body": "We've tried charts, apps, and talking it out. It works for a week and then slides back. I'm out of ideas.",
+    "subreddit": "relationship_advice",
+    "options": [
+      "relationship_advice",
+      "AmItheAsshole",
+      "relationships",
+      "Marriage"
+    ],
+    "difficulty": "medium",
+    "category": "relationships",
+    "note": "A recurring relationship friction point asking for what actually works — classic r/relationship_advice."
+  },
+  {
+    "id": "q244",
+    "title": "[TOMT][SONG] A song from the early 2000s with a whistled intro and a music video set on a beach at night",
+    "body": "I remember the whistle perfectly but not a single word of the lyrics. It's been stuck in my head for days.",
+    "subreddit": "tipofmytongue",
+    "options": [
+      "NameThatSong",
+      "tipofmytongue",
+      "tipofmyjoystick",
+      "music"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird",
+    "note": "A half-remembered song tagged [TOMT][SONG] with one vivid detail — the r/tipofmytongue formula."
+  },
+  {
+    "id": "q245",
+    "title": "Heavy brass object found in my grandfather's toolbox — it has a dial, a needle, and a tiny glass window",
+    "body": "About the size of a pocket watch. The dial goes from 0 to 100 and there's no brand name anywhere.",
+    "subreddit": "whatisthisthing",
+    "options": [
+      "Antiques",
+      "helpmefind",
+      "whatisthisthing",
+      "WhatIsThis"
+    ],
+    "difficulty": "medium",
+    "category": "niche-weird",
+    "note": "A mystery object with measurements and a plea for identification — the r/whatisthisthing classic."
+  },
+  {
+    "id": "q246",
+    "title": "How do you take portraits that don't look posed? Mine always come out stiff",
+    "body": "The moment I raise the camera, everyone freezes. What do you say or do to get natural expressions?",
+    "subreddit": "photography",
+    "options": [
+      "portraits",
+      "analog",
+      "photocritique",
+      "photography"
+    ],
+    "difficulty": "medium",
+    "category": "photography",
+    "note": "A portrait technique question about the human side of shooting — everyday r/photography."
+  },
+  {
+    "id": "q247",
+    "title": "Shot my first roll of film in ten years and forgot how much I missed waiting for the results",
+    "body": "36 frames, no screen, no deleting. Half of them are terrible and I love all of them anyway.",
+    "subreddit": "photography",
+    "options": [
+      "analog",
+      "photography",
+      "AnalogCommunity",
+      "filmisnotdead"
+    ],
+    "difficulty": "medium",
+    "category": "photography",
+    "note": "A film-photography comeback story about slowing down — classic r/photography."
+  },
+  {
+    "id": "q248",
+    "title": "What's a place that completely surprised you — somewhere you expected little and got a lot?",
+    "body": "I went for a two-day stopover and stayed a week. The food, the people, the pace — everything was better than the guidebook promised.",
+    "subreddit": "travel",
+    "options": [
+      "backpacking",
+      "solotravel",
+      "wanderlust",
+      "travel"
+    ],
+    "difficulty": "medium",
+    "category": "travel",
+    "note": "An open travel question about happy surprises — a favorite r/travel discussion."
+  },
+  {
+    "id": "q249",
+    "title": "Three weeks in Japan on a mid-range budget — what would you actually skip?",
+    "body": "Everyone says to see everything, but that's not realistic. What did you do that wasn't worth the time or money?",
+    "subreddit": "travel",
+    "options": [
+      "JapanTravel",
+      "travel",
+      "backpacking",
+      "solotravel"
+    ],
+    "difficulty": "medium",
+    "category": "travel",
+    "note": "A trip-planning question asking what to cut, not what to add — textbook r/travel."
+  },
+  {
+    "id": "q250",
+    "title": "A waterfall hidden behind a cliff overhang, reached by wading through a knee-deep stream [OC]",
+    "body": "The trail isn't on any map — a local pointed us to it. The light through the mist lasted about five minutes.",
+    "subreddit": "EarthPorn",
+    "options": [
+      "NatureIsFuckingLit",
+      "photography",
+      "hiking",
+      "EarthPorn"
+    ],
+    "difficulty": "medium",
+    "category": "photography",
+    "note": "A hidden-spot landscape photo with an adventure story attached — peak r/EarthPorn."
   }
 ]
