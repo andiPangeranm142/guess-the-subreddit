@@ -1,8 +1,8 @@
 # 🕵️ Guess the Subreddit
 
-**A daily guessing game for Reddit — built for [Reddit's Game of the Day Hackathon 2026](https://redditgameofday2026.devpost.com/).**
+**A daily ritual for a community that loves Reddit's weird corners — built for [Reddit's Game of the Day Hackathon 2026](https://redditgameofday2026.devpost.com/).**
 
-Every day, five Reddit-style posts appear. Your job: guess which subreddit each one came from. Get all five right for a perfect score, come back tomorrow to keep your streak alive, and climb the daily leaderboard.
+Every day at midnight UTC, the same five fictional posts go out to every player — one shared puzzle, one shared conversation. Guess where each post belongs, compare your score on the daily leaderboard, and come back tomorrow to keep your streak alive.
 
 ## How to play
 
@@ -22,7 +22,7 @@ Every day, five Reddit-style posts appear. Your job: guess which subreddit each 
 - **Resume mid-game** — close the post halfway through and pick up where you left off.
 - **No login required to play** — anyone can play the full game; logging in saves your streak, stats, and leaderboard rank.
 - **250 hand-written questions** across 105 subreddits, rotating on a 50-day no-repeat cycle — every question appears exactly once per cycle. Every post is fictional, written in each community's authentic voice — no real posts, no real usernames, no external data.
-- **Juicy feedback** — correct answers burst with a rising upvote arrow, wrong answers shake red, and a perfect game rains confetti under a floating Snoo.
+- **Juicy feedback** — correct answers burst with a rising upvote arrow, wrong answers shake red, and a perfect game rains confetti.
 
 ## Tech
 
